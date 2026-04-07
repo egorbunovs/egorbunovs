@@ -20,13 +20,17 @@ const languageColors = [
 async function fetchData() {
   let allRepos = [];
   let after = null;
-  let userData = null; // <-- store user info here
+  let userData = null;
+
+  const now = new Date();
+  const from = new Date(now.getFullYear(), now.getMonth(), 1).toISOString();
+  const to = new Date(now.getFullYear(), now.getMonth() + 1, 0, 23, 59, 59).toISOString();
 
   do {
     const res = await client(`
-      query($username: String!, $after: String) {
+      query($username: String!, $after: String, $from: DateTime!, $to: DateTime!) {
         user(login: $username) {
-          contributionsCollection {
+          contributionsCollection(from: $from, to: $to) {
             totalCommitContributions
           }
           repositories(first: 100, ownerAffiliations: OWNER, after: $after) {
@@ -43,13 +47,12 @@ async function fetchData() {
           }
         }
       }
-    `, { username, after });
+    `, { username, after, from, to });
 
     if (!res.user) {
       throw new Error(`User "${username}" not found or token cannot access user data`);
     }
 
-    // Save contributions info (same for all pages)
     if (!userData) userData = res.user;
 
     allRepos = allRepos.concat(res.user.repositories.nodes);
@@ -59,8 +62,7 @@ async function fetchData() {
 
   } while (after);
 
-  const totalCommits = userData?.contributionsCollection?.totalCommitContributions || 0;
-  const repoCount = allRepos.length;
+  const commitsThisMonth = userData?.contributionsCollection?.totalCommitContributions || 0;
 
   // Aggregate languages
   const languageMap = {};
@@ -84,65 +86,80 @@ async function fetchData() {
       color: languageColors[i % languageColors.length]
     }));
 
-  return { totalCommits, repoCount, topLanguages };
+  return { commitsThisMonth, topLanguages };
 }
 
-function generateSVG({ totalCommits, repoCount, topLanguages }) {
+function generateSVG({ commitsThisMonth, topLanguages }, theme) {
+  const isDark = theme === "dark";
   const svgWidth = 500;
   const padding = 16;
   const textSize = 14;
-  const lineSpacing = 24; // equal spacing between lines
+  const lineSpacing = 24;
 
-  // Language bar
-  const barHeight = 14;
-  const barY = padding + lineSpacing * 2; // below commits & repos
-  const gap = 2; // 2px gap between segments
+  const bgColor = isDark ? "#0d1117" : "#ffffff";
+  const textColor = isDark ? "#ffffff" : "#24292f";
 
+  // Bar dimensions
+  const barHeight = 12;
+  const barWidth = svgWidth - 2 * padding;
+  const barRx = 6;
+  const gap = 2;
+
+  // Layout: equal gap above and below bar
+  const textY1 = padding + textSize;
+  const sectionGap = lineSpacing;
+  const barY = textY1 + sectionGap;
+
+  // Bar segments clipped to rounded rect
   let xOffset = padding;
-  let barSegments = '';
-
-  topLanguages.slice(0, 9).forEach(lang => {
-    const width = (parseFloat(lang.percentage) / 100) * (svgWidth - 2 * padding - gap * (topLanguages.length - 1));
-    barSegments += `<rect x="${xOffset}" y="${barY}" width="${width}" height="${barHeight}" fill="${lang.color}" rx="7" />\n`;
-    xOffset += width + gap;
+  let barSegments = "";
+  topLanguages.forEach(lang => {
+    const segWidth = (parseFloat(lang.percentage) / 100) * (barWidth - gap * (topLanguages.length - 1));
+    barSegments += `    <rect x="${xOffset.toFixed(2)}" y="${barY}" width="${segWidth.toFixed(2)}" height="${barHeight}" fill="${lang.color}" />\n`;
+    xOffset += segWidth + gap;
   });
 
-  // Language labels, 3 per line, evenly spaced
-  const labelsStartY = barY + barHeight + lineSpacing;
+  // Language labels, 3 per row
+  const labelsStartY = barY + barHeight + sectionGap;
   const perLine = 3;
   const lines = Math.ceil(topLanguages.length / perLine);
-  let labels = '';
-
+  let labels = "";
   for (let i = 0; i < lines; i++) {
     const lineLangs = topLanguages.slice(i * perLine, i * perLine + perLine);
     const spacePerLang = (svgWidth - 2 * padding) / perLine;
     lineLangs.forEach((lang, idx) => {
       const x = padding + idx * spacePerLang;
       const y = labelsStartY + i * lineSpacing;
-      labels += `<circle cx="${x + 5}" cy="${y - 5}" r="5" fill="${lang.color}" />`;
-      labels += `<text x="${x + 15}" y="${y}" fill="white" font-size="${textSize}">${lang.name} ${lang.percentage}%</text>\n`;
+      labels += `  <circle cx="${x + 5}" cy="${y - 5}" r="5" fill="${lang.color}" />\n`;
+      labels += `  <text x="${x + 15}" y="${y}" fill="${textColor}" font-size="${textSize}">${lang.name} ${lang.percentage}%</text>\n`;
     });
   }
 
   const svgHeight = labelsStartY + lines * lineSpacing + padding;
 
-  return `
-<svg width="${svgWidth}" height="${svgHeight}" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100%" height="100%" fill="#0d1117"/>
-  <text x="${padding}" y="${padding + textSize}" fill="white" font-size="${textSize}">Commits: ${totalCommits}</text>
-  <text x="${padding}" y="${padding + textSize + lineSpacing}" fill="white" font-size="${textSize}">Repos: ${repoCount}</text>
-  ${barSegments}
-  ${labels}
-</svg>
-  `;
+  const borderRect = isDark
+    ? ""
+    : `  <rect x="0.5" y="0.5" width="${svgWidth - 1}" height="${svgHeight - 1}" rx="16" fill="none" stroke="#000000" stroke-width="1"/>\n`;
+
+  return `<svg width="${svgWidth}" height="${svgHeight}" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="bar-clip">
+      <rect x="${padding}" y="${barY}" width="${barWidth}" height="${barHeight}" rx="${barRx}" />
+    </clipPath>
+  </defs>
+  <rect width="${svgWidth}" height="${svgHeight}" fill="${bgColor}" rx="16"/>
+${borderRect}  <text x="${padding}" y="${textY1}" fill="${textColor}" font-size="${textSize}">Commits this month: ${commitsThisMonth}</text>
+  <g clip-path="url(#bar-clip)">
+${barSegments}  </g>
+${labels}</svg>`;
 }
 
 async function main() {
   try {
     const data = await fetchData();
-    const svg = generateSVG(data);
-    fs.writeFileSync("stats.svg", svg);
-    console.log("SVG generated successfully.");
+    fs.writeFileSync("stats-dark.svg", generateSVG(data, "dark"));
+    fs.writeFileSync("stats-light.svg", generateSVG(data, "light"));
+    console.log("SVGs generated successfully.");
   } catch (err) {
     console.error("Error generating SVG:", err);
     process.exit(1);
