@@ -1,10 +1,17 @@
 
-<svg width="500" height="200" xmlns="http://www.w3.org/2000/svg">
+<svg width="500" height="500" xmlns="http://www.w3.org/2000/svg">
   <rect width="100%" height="100%" fill="#0d1117"/>
-  <text x="20" y="80" fill="white" font-size="20">
-    Commits: 371
-  </text>
-  <text x="20" y="120" fill="white" font-size="20">
-    Repos: 97
-  </text>
+  <text x="20" y="40" fill="white" font-size="20">Commits: 373</text>
+  <text x="20" y="80" fill="white" font-size="20">Repos: 97</text>
+  <text x="20" y="120" fill="white" font-size="20">Top Languages:</text>
+  <text x="40" y="150" fill="white" font-size="18">1. Kotlin</text>
+<text x="40" y="180" fill="white" font-size="18">2. C#</text>
+<text x="40" y="210" fill="white" font-size="18">3. ShaderLab</text>
+<text x="40" y="240" fill="white" font-size="18">4. C++</text>
+<text x="40" y="270" fill="white" font-size="18">5. Java</text>
+<text x="40" y="300" fill="white" font-size="18">6. HLSL</text>
+<text x="40" y="330" fill="white" font-size="18">7. Objective-C</text>
+<text x="40" y="360" fill="white" font-size="18">8. TypeScript</text>
+<text x="40" y="390" fill="white" font-size="18">9. JavaScript</text>
+<text x="40" y="420" fill="white" font-size="18">10. C</text>
 </svg>
