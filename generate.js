@@ -89,44 +89,48 @@ async function fetchData() {
 
 function generateSVG({ totalCommits, repoCount, topLanguages }) {
   const svgWidth = 500;
-  const padding = 20;
+  const padding = 16;
+  const textSize = 14;
+  const lineSpacing = 24; // equal spacing between lines
 
   // Language bar
+  const barHeight = 14;
+  const barY = padding + lineSpacing * 2; // below commits & repos
+  const gap = 2; // 2px gap between segments
+
   let xOffset = padding;
-  const barHeight = 20;
-  const barY = 150;
-
   let barSegments = '';
-  topLanguages.forEach(lang => {
-    const width = (parseFloat(lang.percentage) / 100) * (svgWidth - 2 * padding);
-    barSegments += `<rect x="${xOffset}" y="${barY}" width="${width}" height="${barHeight}" fill="${lang.color}" />\n`;
-    xOffset += width;
+
+  topLanguages.slice(0, 9).forEach(lang => {
+    const width = (parseFloat(lang.percentage) / 100) * (svgWidth - 2 * padding - gap * (topLanguages.length - 1));
+    barSegments += `<rect x="${xOffset}" y="${barY}" width="${width}" height="${barHeight}" fill="${lang.color}" rx="7" />\n`;
+    xOffset += width + gap;
   });
 
-  // Language labels
+  // Language labels, 3 per line, evenly spaced
+  const labelsStartY = barY + barHeight + lineSpacing;
+  const perLine = 3;
+  const lines = Math.ceil(topLanguages.length / perLine);
   let labels = '';
-  let currentX = padding;
-  let currentY = barY + barHeight + 30;
-  const lineHeight = 25;
-  topLanguages.forEach(lang => {
-    const text = `${lang.name} ${lang.percentage}%`;
-    const textWidth = text.length * 8 + 20; // approximate width
-    if (currentX + textWidth > svgWidth - padding) {
-      currentX = padding;
-      currentY += lineHeight;
-    }
-    labels += `<circle cx="${currentX + 5}" cy="${currentY - 5}" r="5" fill="${lang.color}" />`;
-    labels += `<text x="${currentX + 15}" y="${currentY}" fill="white" font-size="14">${text}</text>\n`;
-    currentX += textWidth + 10;
-  });
 
-  const svgHeight = currentY + padding;
+  for (let i = 0; i < lines; i++) {
+    const lineLangs = topLanguages.slice(i * perLine, i * perLine + perLine);
+    const spacePerLang = (svgWidth - 2 * padding) / perLine;
+    lineLangs.forEach((lang, idx) => {
+      const x = padding + idx * spacePerLang;
+      const y = labelsStartY + i * lineSpacing;
+      labels += `<circle cx="${x + 5}" cy="${y - 5}" r="5" fill="${lang.color}" />`;
+      labels += `<text x="${x + 15}" y="${y}" fill="white" font-size="${textSize}">${lang.name} ${lang.percentage}%</text>\n`;
+    });
+  }
+
+  const svgHeight = labelsStartY + lines * lineSpacing + padding;
 
   return `
 <svg width="${svgWidth}" height="${svgHeight}" xmlns="http://www.w3.org/2000/svg">
   <rect width="100%" height="100%" fill="#0d1117"/>
-  <text x="${padding}" y="40" fill="white" font-size="20">Commits: ${totalCommits}</text>
-  <text x="${padding}" y="80" fill="white" font-size="20">Repos: ${repoCount}</text>
+  <text x="${padding}" y="${padding + textSize}" fill="white" font-size="${textSize}">Commits: ${totalCommits}</text>
+  <text x="${padding}" y="${padding + textSize + lineSpacing}" fill="white" font-size="${textSize}">Repos: ${repoCount}</text>
   ${barSegments}
   ${labels}
 </svg>
