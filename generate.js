@@ -20,6 +20,7 @@ const languageColors = [
 async function fetchData() {
   let allRepos = [];
   let after = null;
+  let userData = null; // <-- store user info here
 
   do {
     const res = await client(`
@@ -48,6 +49,9 @@ async function fetchData() {
       throw new Error(`User "${username}" not found or token cannot access user data`);
     }
 
+    // Save contributions info (same for all pages)
+    if (!userData) userData = res.user;
+
     allRepos = allRepos.concat(res.user.repositories.nodes);
     after = res.user.repositories.pageInfo.hasNextPage
       ? res.user.repositories.pageInfo.endCursor
@@ -55,10 +59,7 @@ async function fetchData() {
 
   } while (after);
 
-  // Total commits
-  const totalCommits = res.user?.contributionsCollection?.totalCommitContributions || 0;
-
-  // Total repos
+  const totalCommits = userData?.contributionsCollection?.totalCommitContributions || 0;
   const repoCount = allRepos.length;
 
   // Aggregate languages
