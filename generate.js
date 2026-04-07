@@ -2,6 +2,7 @@ import fs from "fs";
 import { graphql } from "@octokit/graphql";
 
 const username = process.env.USERNAME;
+if (!username) throw new Error("USERNAME environment variable is not set");
 
 const client = graphql.defaults({
   headers: {
@@ -9,7 +10,7 @@ const client = graphql.defaults({
   },
 });
 
-// Some visually distinct colors for languages
+// Distinct colors for top languages
 const languageColors = [
   "#f1e05a", "#e34c26", "#563d7c", "#b07219",
   "#2b7489", "#f34b7d", "#701516", "#3572A5",
@@ -17,7 +18,6 @@ const languageColors = [
 ];
 
 async function fetchData() {
-  // Fetch repos (pagination for >100)
   let allRepos = [];
   let after = null;
 
@@ -31,6 +31,7 @@ async function fetchData() {
           repositories(first: 100, ownerAffiliations: OWNER, after: $after) {
             pageInfo { hasNextPage endCursor }
             nodes {
+              name
               languages(first: 10) {
                 edges {
                   size
@@ -38,11 +39,14 @@ async function fetchData() {
                 }
               }
             }
-            totalCount
           }
         }
       }
     `, { username, after });
+
+    if (!res.user) {
+      throw new Error(`User "${username}" not found or token cannot access user data`);
+    }
 
     allRepos = allRepos.concat(res.user.repositories.nodes);
     after = res.user.repositories.pageInfo.hasNextPage
@@ -51,25 +55,13 @@ async function fetchData() {
 
   } while (after);
 
-  // Count commits and repo total
-  const totalCommits = allRepos.length > 0
-    ? await client(`
-      query($username: String!) {
-        user(login: $username) {
-          contributionsCollection {
-            totalCommitContributions
-          }
-          repositories(first: 1, ownerAffiliations: OWNER) {
-            totalCount
-          }
-        }
-      }
-    `, { username }).user.contributionsCollection.totalCommitContributions
-    : 0;
+  // Total commits
+  const totalCommits = res.user?.contributionsCollection?.totalCommitContributions || 0;
 
+  // Total repos
   const repoCount = allRepos.length;
 
-  // Sum languages
+  // Aggregate languages
   const languageMap = {};
   for (const repo of allRepos) {
     if (!repo.languages) continue;
@@ -79,17 +71,15 @@ async function fetchData() {
     }
   }
 
-  // Total bytes for percentage calculation
   const totalBytes = Object.values(languageMap).reduce((a, b) => a + b, 0);
 
-  // Top 10 languages
   const topLanguages = Object.entries(languageMap)
     .sort((a, b) => b[1] - a[1])
     .slice(0, 10)
     .map(([name, size], i) => ({
       name,
       size,
-      percentage: ((size / totalBytes) * 100).toFixed(1),
+      percentage: totalBytes ? ((size / totalBytes) * 100).toFixed(1) : "0.0",
       color: languageColors[i % languageColors.length]
     }));
 
@@ -100,8 +90,7 @@ function generateSVG({ totalCommits, repoCount, topLanguages }) {
   const svgWidth = 500;
   const padding = 20;
 
-  // Generate language bar
-  const totalPercent = topLanguages.reduce((sum, l) => sum + parseFloat(l.percentage), 0);
+  // Language bar
   let xOffset = padding;
   const barHeight = 20;
   const barY = 150;
@@ -113,14 +102,14 @@ function generateSVG({ totalCommits, repoCount, topLanguages }) {
     xOffset += width;
   });
 
-  // Generate language labels in rows
+  // Language labels
   let labels = '';
   let currentX = padding;
   let currentY = barY + barHeight + 30;
   const lineHeight = 25;
   topLanguages.forEach(lang => {
     const text = `${lang.name} ${lang.percentage}%`;
-    const textWidth = text.length * 8 + 20; // approximate width (8px per char + circle)
+    const textWidth = text.length * 8 + 20; // approximate width
     if (currentX + textWidth > svgWidth - padding) {
       currentX = padding;
       currentY += lineHeight;
@@ -140,13 +129,19 @@ function generateSVG({ totalCommits, repoCount, topLanguages }) {
   ${barSegments}
   ${labels}
 </svg>
-`;
+  `;
 }
 
 async function main() {
-  const data = await fetchData();
-  const svg = generateSVG(data);
-  fs.writeFileSync("stats.svg", svg);
+  try {
+    const data = await fetchData();
+    const svg = generateSVG(data);
+    fs.writeFileSync("stats.svg", svg);
+    console.log("SVG generated successfully.");
+  } catch (err) {
+    console.error("Error generating SVG:", err);
+    process.exit(1);
+  }
 }
 
 main();
