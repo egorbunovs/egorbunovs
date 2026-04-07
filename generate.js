@@ -1,14 +1,5 @@
 import fs from "fs";
-import { graphql } from "@octokit/graphql";
-
-const username = process.env.USERNAME;
-if (!username) throw new Error("USERNAME environment variable is not set");
-
-const client = graphql.defaults({
-  headers: {
-    authorization: `token ${process.env.GITHUB_TOKEN}`,
-  },
-});
+import { fileURLToPath } from "url";
 
 const languageColors = [
   "#f1e05a", "#e34c26", "#563d7c", "#b07219",
@@ -17,6 +8,13 @@ const languageColors = [
 ];
 
 async function fetchData() {
+  const username = process.env.USERNAME;
+  if (!username) throw new Error("USERNAME environment variable is not set");
+  const { graphql } = await import("@octokit/graphql");
+  const client = graphql.defaults({
+    headers: { authorization: `token ${process.env.GITHUB_TOKEN}` },
+  });
+
   const now = new Date();
   const from = new Date(now - 30 * 24 * 60 * 60 * 1000).toISOString();
   const to = now.toISOString();
@@ -73,7 +71,7 @@ async function fetchData() {
 }
 
 // HSL → hex helper used for random avatar colors
-function hslToHex(h, s, l) {
+export function hslToHex(h, s, l) {
   s /= 100; l /= 100;
   const k = n => (n + h / 30) % 12;
   const a = s * Math.min(l, 1 - l);
@@ -82,7 +80,7 @@ function hslToHex(h, s, l) {
 }
 
 // Seeded PRNG so the avatar is deterministic per commit count
-function createRng(seed) {
+export function createRng(seed) {
   let s = ((seed ^ 0xdeadbeef) + 1) >>> 0;
   return () => {
     s = Math.imul(s ^ (s >>> 15), s | 1);
@@ -92,7 +90,7 @@ function createRng(seed) {
 }
 
 // Returns { defs, content } with absolute SVG coordinates (ax, ay = top-left of the 64x64 avatar)
-function generateAvatar(commits, theme, ax, ay) {
+export function generateAvatar(commits, theme, ax, ay) {
   commits = Math.max(0, Math.min(100, commits));
   const rng = createRng(commits);
   const fn = n => +n.toFixed(1);
@@ -161,12 +159,18 @@ function generateAvatar(commits, theme, ax, ay) {
     faceShape = `<path d="${d} Z" fill="${faceColor}"/>`;
   }
 
-  // Eyes — vertical ellipses: taller than wide, grow vertically with commits
-  // Max height diameter = 6px (ry max = 3), width stays narrow
-  const eyeRx = fn(1.5 + t * 0.5);      // 1 → 1.5 (stays narrow)
-  const eyeRy = fn(1.5 + t * 3);        // 1 → 4  (diameter 2 → 8)
+  // Eyes — circles 0–30, then widen by 1px and grow into vertical ellipses 30–100
   const eyeY = fn(fcy - 5);
-  const eyeSpread = fn(8 + rng() * 2); // further apart
+  const eyeSpread = fn(8 + rng() * 2);
+  let eyeRx, eyeRy;
+  if (commits <= 30) {
+    const r = fn(1.5 + (commits / 30) * 1);
+    eyeRx = eyeRy = r; // circle growing 1.5 → 2.5
+  } else {
+    const tE = (commits - 30) / 70;
+    eyeRx = fn(2.5 + tE * 0.5);  // starts 1px wider than circle, grows to 3
+    eyeRy = fn(2.5 + tE * 1.5);  // grows taller to 4
+  }
   const eyes = `<ellipse cx="${fn(fcx - eyeSpread)}" cy="${eyeY}" rx="${eyeRx}" ry="${eyeRy}" fill="${markColor}"/>
   <ellipse cx="${fn(fcx + eyeSpread)}" cy="${eyeY}" rx="${eyeRx}" ry="${eyeRy}" fill="${markColor}"/>`;
 
@@ -201,8 +205,16 @@ function generateAvatar(commits, theme, ax, ay) {
   };
 }
 
-function generateSVG({ commitsLast30Days, topLanguages }, theme) {
+export function generateSVG({ commitsLast30Days, topLanguages }, theme) {
   topLanguages = topLanguages.slice(0, 9);
+  // Normalise so bar segments always sum to 100%
+  const pctSum = topLanguages.reduce((s, l) => s + parseFloat(l.percentage), 0);
+  if (pctSum > 0) {
+    topLanguages = topLanguages.map(l => ({
+      ...l,
+      percentage: ((parseFloat(l.percentage) / pctSum) * 100).toFixed(1)
+    }));
+  }
   const isDark = theme === "dark";
   const svgWidth = 500;
   const svgCorners = 8;
@@ -294,4 +306,6 @@ async function main() {
   }
 }
 
-main();
+if (process.argv[1] === fileURLToPath(import.meta.url)) {
+  main();
+}

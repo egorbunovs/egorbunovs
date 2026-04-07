@@ -1,0 +1,1206 @@
+<svg width="708" height="868" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="avatar-clip-light-all-0">
+      <circle cx="48" cy="48" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-1">
+      <circle cx="116" cy="48" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-2">
+      <circle cx="184" cy="48" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-3">
+      <circle cx="252" cy="48" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-4">
+      <circle cx="320" cy="48" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-5">
+      <circle cx="388" cy="48" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-6">
+      <circle cx="456" cy="48" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-7">
+      <circle cx="524" cy="48" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-8">
+      <circle cx="592" cy="48" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-9">
+      <circle cx="660" cy="48" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-10">
+      <circle cx="48" cy="132" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-11">
+      <circle cx="116" cy="132" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-12">
+      <circle cx="184" cy="132" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-13">
+      <circle cx="252" cy="132" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-14">
+      <circle cx="320" cy="132" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-15">
+      <circle cx="388" cy="132" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-16">
+      <circle cx="456" cy="132" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-17">
+      <circle cx="524" cy="132" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-18">
+      <circle cx="592" cy="132" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-19">
+      <circle cx="660" cy="132" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-20">
+      <circle cx="48" cy="216" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-21">
+      <circle cx="116" cy="216" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-22">
+      <circle cx="184" cy="216" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-23">
+      <circle cx="252" cy="216" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-24">
+      <circle cx="320" cy="216" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-25">
+      <circle cx="388" cy="216" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-26">
+      <circle cx="456" cy="216" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-27">
+      <circle cx="524" cy="216" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-28">
+      <circle cx="592" cy="216" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-29">
+      <circle cx="660" cy="216" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-30">
+      <circle cx="48" cy="300" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-31">
+      <circle cx="116" cy="300" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-32">
+      <circle cx="184" cy="300" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-33">
+      <circle cx="252" cy="300" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-34">
+      <circle cx="320" cy="300" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-35">
+      <circle cx="388" cy="300" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-36">
+      <circle cx="456" cy="300" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-37">
+      <circle cx="524" cy="300" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-38">
+      <circle cx="592" cy="300" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-39">
+      <circle cx="660" cy="300" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-40">
+      <circle cx="48" cy="384" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-41">
+      <circle cx="116" cy="384" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-42">
+      <circle cx="184" cy="384" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-43">
+      <circle cx="252" cy="384" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-44">
+      <circle cx="320" cy="384" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-45">
+      <circle cx="388" cy="384" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-46">
+      <circle cx="456" cy="384" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-47">
+      <circle cx="524" cy="384" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-48">
+      <circle cx="592" cy="384" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-49">
+      <circle cx="660" cy="384" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-50">
+      <circle cx="48" cy="468" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-51">
+      <circle cx="116" cy="468" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-52">
+      <circle cx="184" cy="468" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-53">
+      <circle cx="252" cy="468" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-54">
+      <circle cx="320" cy="468" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-55">
+      <circle cx="388" cy="468" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-56">
+      <circle cx="456" cy="468" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-57">
+      <circle cx="524" cy="468" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-58">
+      <circle cx="592" cy="468" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-59">
+      <circle cx="660" cy="468" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-60">
+      <circle cx="48" cy="552" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-61">
+      <circle cx="116" cy="552" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-62">
+      <circle cx="184" cy="552" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-63">
+      <circle cx="252" cy="552" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-64">
+      <circle cx="320" cy="552" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-65">
+      <circle cx="388" cy="552" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-66">
+      <circle cx="456" cy="552" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-67">
+      <circle cx="524" cy="552" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-68">
+      <circle cx="592" cy="552" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-69">
+      <circle cx="660" cy="552" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-70">
+      <circle cx="48" cy="636" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-71">
+      <circle cx="116" cy="636" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-72">
+      <circle cx="184" cy="636" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-73">
+      <circle cx="252" cy="636" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-74">
+      <circle cx="320" cy="636" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-75">
+      <circle cx="388" cy="636" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-76">
+      <circle cx="456" cy="636" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-77">
+      <circle cx="524" cy="636" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-78">
+      <circle cx="592" cy="636" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-79">
+      <circle cx="660" cy="636" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-80">
+      <circle cx="48" cy="720" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-81">
+      <circle cx="116" cy="720" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-82">
+      <circle cx="184" cy="720" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-83">
+      <circle cx="252" cy="720" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-84">
+      <circle cx="320" cy="720" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-85">
+      <circle cx="388" cy="720" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-86">
+      <circle cx="456" cy="720" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-87">
+      <circle cx="524" cy="720" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-88">
+      <circle cx="592" cy="720" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-89">
+      <circle cx="660" cy="720" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-90">
+      <circle cx="48" cy="804" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-91">
+      <circle cx="116" cy="804" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-92">
+      <circle cx="184" cy="804" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-93">
+      <circle cx="252" cy="804" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-94">
+      <circle cx="320" cy="804" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-95">
+      <circle cx="388" cy="804" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-96">
+      <circle cx="456" cy="804" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-97">
+      <circle cx="524" cy="804" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-98">
+      <circle cx="592" cy="804" r="32"/>
+    </clipPath>
+    <clipPath id="avatar-clip-light-all-99">
+      <circle cx="660" cy="804" r="32"/>
+    </clipPath>
+  </defs>
+  <rect width="708" height="868" fill="#ffffff" rx="8"/>
+  <rect x="0.5" y="0.5" width="707" height="867" rx="8" fill="none" stroke="#E5E7EB" stroke-width="1"/>
+  <circle cx="48" cy="48" r="32" fill="#551834"/>
+  <g clip-path="url(#avatar-clip-light-all-0)">
+    <rect x="11.8" y="22.9" width="54.9" height="54.9" rx="5.9" transform="rotate(42.8 39.2 50.4)" fill="#9ae696"/>
+  </g>
+  <ellipse cx="29.9" cy="45.4" rx="1.5" ry="1.5" fill="#1a1a1a"/>
+  <ellipse cx="48.5" cy="45.4" rx="1.5" ry="1.5" fill="#1a1a1a"/>
+  <line x1="34.2" y1="56.4" x2="44.2" y2="56.4" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="48" cy="48" r="31" fill="none" stroke="#a13e36" stroke-width="2"/>
+  <text x="48" y="84" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">0</text>
+  <circle cx="116" cy="48" r="32" fill="#0d7326"/>
+  <g clip-path="url(#avatar-clip-light-all-1)">
+    <rect x="98.9" y="28.3" width="48" height="45.7" rx="11" fill="#b68bdc"/>
+  </g>
+  <ellipse cx="113" cy="46.1" rx="1.5" ry="1.5" fill="#1a1a1a"/>
+  <ellipse cx="132.8" cy="46.1" rx="1.5" ry="1.5" fill="#1a1a1a"/>
+  <path d="M 117.8,57.1 Q 122.9,57.3 128,57.1" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="116" cy="48" r="31" fill="none" stroke="#a14136" stroke-width="2"/>
+  <text x="116" y="84" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">1</text>
+  <circle cx="184" cy="48" r="32" fill="#350f44"/>
+  <g clip-path="url(#avatar-clip-light-all-2)">
+    <rect x="152.4" y="17.2" width="54.8" height="46.9" rx="11.7" fill="#3def7f"/>
+  </g>
+  <ellipse cx="170.5" cy="35.6" rx="1.6" ry="1.6" fill="#1a1a1a"/>
+  <ellipse cx="189.1" cy="35.6" rx="1.6" ry="1.6" fill="#1a1a1a"/>
+  <path d="M 174.7,46.6 Q 179.8,46.9 184.9,46.6" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="184" cy="48" r="31" fill="none" stroke="#a14336" stroke-width="2"/>
+  <text x="184" y="84" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">2</text>
+  <circle cx="252" cy="48" r="32" fill="#161b70"/>
+  <g clip-path="url(#avatar-clip-light-all-3)">
+    <path d="M 226.2,60.3 Q 214.7,43.1 229.8,27.8 Q 244.8,12.5 265.2,20.5 Q 285.6,28.6 283.1,51.4 Q 280.5,74.2 259.1,75.9 Q 237.8,77.6 226.2,60.3 Z" fill="#8fee99"/>
+  </g>
+  <ellipse cx="243.4" cy="42.5" rx="1.6" ry="1.6" fill="#1a1a1a"/>
+  <ellipse cx="260" cy="42.5" rx="1.6" ry="1.6" fill="#1a1a1a"/>
+  <path d="M 246.5,53.5 Q 251.7,54 256.9,53.5" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="252" cy="48" r="31" fill="none" stroke="#a14636" stroke-width="2"/>
+  <text x="252" y="84" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">3</text>
+  <circle cx="320" cy="48" r="32" fill="#431f74"/>
+  <g clip-path="url(#avatar-clip-light-all-4)">
+    <rect x="295.4" y="24.1" width="46.3" height="46.3" rx="4.2" transform="rotate(50.5 318.5 47.2)" fill="#a3d77b"/>
+  </g>
+  <ellipse cx="309.6" cy="42.2" rx="1.6" ry="1.6" fill="#1a1a1a"/>
+  <ellipse cx="327.4" cy="42.2" rx="1.6" ry="1.6" fill="#1a1a1a"/>
+  <path d="M 313.3,53.2 Q 318.5,53.9 323.7,53.2" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="320" cy="48" r="31" fill="none" stroke="#a14836" stroke-width="2"/>
+  <text x="320" y="84" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">4</text>
+  <circle cx="388" cy="48" r="32" fill="#951b1f"/>
+  <g clip-path="url(#avatar-clip-light-all-5)">
+    <ellipse cx="393.4" cy="44.1" rx="27.7" ry="20.9" fill="#99f06c"/>
+  </g>
+  <ellipse cx="384.3" cy="39.1" rx="1.7" ry="1.7" fill="#1a1a1a"/>
+  <ellipse cx="402.5" cy="39.1" rx="1.7" ry="1.7" fill="#1a1a1a"/>
+  <path d="M 388.1,50.1 Q 393.4,50.9 398.7,50.1" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="388" cy="48" r="31" fill="none" stroke="#a14b36" stroke-width="2"/>
+  <text x="388" y="84" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">5</text>
+  <circle cx="456" cy="48" r="32" fill="#422d16"/>
+  <g clip-path="url(#avatar-clip-light-all-6)">
+    <ellipse cx="459.8" cy="42.4" rx="22.1" ry="21.7" fill="#a6dee6"/>
+  </g>
+  <ellipse cx="450.1" cy="37.4" rx="1.7" ry="1.7" fill="#1a1a1a"/>
+  <ellipse cx="469.5" cy="37.4" rx="1.7" ry="1.7" fill="#1a1a1a"/>
+  <path d="M 454.4,48.4 Q 459.8,49.4 465.2,48.4" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="456" cy="48" r="31" fill="none" stroke="#a14d36" stroke-width="2"/>
+  <text x="456" y="84" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">6</text>
+  <circle cx="524" cy="48" r="32" fill="#6635af"/>
+  <g clip-path="url(#avatar-clip-light-all-7)">
+    <path d="M 538.4,64 Q 523.8,75.9 508.1,68.9 Q 492.4,61.9 495,44.9 Q 497.6,27.9 515.5,22.1 Q 533.3,16.4 543.1,34.2 Q 553,52.1 538.4,64 Z" fill="#45e5b7"/>
+  </g>
+  <ellipse cx="509.9" cy="42.6" rx="1.7" ry="1.7" fill="#1a1a1a"/>
+  <ellipse cx="527.1" cy="42.6" rx="1.7" ry="1.7" fill="#1a1a1a"/>
+  <path d="M 513.1,53.6 Q 518.5,54.8 523.9,53.6" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="524" cy="48" r="31" fill="none" stroke="#a15036" stroke-width="2"/>
+  <text x="524" y="84" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">7</text>
+  <circle cx="592" cy="48" r="32" fill="#692541"/>
+  <g clip-path="url(#avatar-clip-light-all-8)">
+    <rect x="559.4" y="28.6" width="46.3" height="46.3" rx="3.6" transform="rotate(28 582.5 51.8)" fill="#a3a9ec"/>
+  </g>
+  <ellipse cx="573.5" cy="46.8" rx="1.8" ry="1.8" fill="#1a1a1a"/>
+  <ellipse cx="591.5" cy="46.8" rx="1.8" ry="1.8" fill="#1a1a1a"/>
+  <path d="M 577,57.8 Q 582.5,59.1 588,57.8" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="592" cy="48" r="31" fill="none" stroke="#a15236" stroke-width="2"/>
+  <text x="592" y="84" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">8</text>
+  <circle cx="660" cy="48" r="32" fill="#207084"/>
+  <g clip-path="url(#avatar-clip-light-all-9)">
+    <rect x="641.1" y="31.8" width="47.9" height="47.9" rx="6.3" transform="rotate(46.3 665.1 55.8)" fill="#d6ed76"/>
+  </g>
+  <ellipse cx="655.4" cy="50.8" rx="1.8" ry="1.8" fill="#1a1a1a"/>
+  <ellipse cx="674.8" cy="50.8" rx="1.8" ry="1.8" fill="#1a1a1a"/>
+  <path d="M 659.6,61.8 Q 665.1,63.3 670.6,61.8" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="660" cy="48" r="31" fill="none" stroke="#a15536" stroke-width="2"/>
+  <text x="660" y="84" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">9</text>
+  <circle cx="48" cy="132" r="32" fill="#661652"/>
+  <g clip-path="url(#avatar-clip-light-all-10)">
+    <rect x="11.5" y="113.9" width="54.7" height="47.5" rx="11.7" fill="#9af2e6"/>
+  </g>
+  <ellipse cx="30.4" cy="132.7" rx="1.8" ry="1.8" fill="#1a1a1a"/>
+  <ellipse cx="47.4" cy="132.7" rx="1.8" ry="1.8" fill="#1a1a1a"/>
+  <path d="M 33.3,143.7 Q 38.9,145.4 44.5,143.7" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="48" cy="132" r="31" fill="none" stroke="#a15736" stroke-width="2"/>
+  <text x="48" y="168" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">10</text>
+  <circle cx="116" cy="132" r="32" fill="#245731"/>
+  <g clip-path="url(#avatar-clip-light-all-11)">
+    <ellipse cx="114.2" cy="137.3" rx="26.9" ry="29.4" fill="#f1ad97"/>
+  </g>
+  <ellipse cx="104.9" cy="132.3" rx="1.9" ry="1.9" fill="#1a1a1a"/>
+  <ellipse cx="123.5" cy="132.3" rx="1.9" ry="1.9" fill="#1a1a1a"/>
+  <path d="M 108.5,143.3 Q 114.2,145.1 119.9,143.3" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="116" cy="132" r="31" fill="none" stroke="#a15a36" stroke-width="2"/>
+  <text x="116" y="168" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">11</text>
+  <circle cx="184" cy="132" r="32" fill="#223298"/>
+  <g clip-path="url(#avatar-clip-light-all-12)">
+    <rect x="160.5" y="101.5" width="52.1" height="52.1" rx="4.6" transform="rotate(54.2 186.6 127.5)" fill="#f2c37e"/>
+  </g>
+  <ellipse cx="178" cy="122.5" rx="1.9" ry="1.9" fill="#1a1a1a"/>
+  <ellipse cx="195.2" cy="122.5" rx="1.9" ry="1.9" fill="#1a1a1a"/>
+  <path d="M 180.9,133.5 Q 186.6,135.5 192.3,133.5" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="184" cy="132" r="31" fill="none" stroke="#a15c36" stroke-width="2"/>
+  <text x="184" y="168" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">12</text>
+  <circle cx="252" cy="132" r="32" fill="#3e9ea2"/>
+  <g clip-path="url(#avatar-clip-light-all-13)">
+    <rect x="234" y="108.5" width="53.4" height="52.9" rx="8" fill="#cbd87c"/>
+  </g>
+  <ellipse cx="250.9" cy="129.9" rx="1.9" ry="1.9" fill="#1a1a1a"/>
+  <ellipse cx="270.5" cy="129.9" rx="1.9" ry="1.9" fill="#1a1a1a"/>
+  <path d="M 254.9,140.9 Q 260.7,143.1 266.5,140.9" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="252" cy="132" r="31" fill="none" stroke="#a15f36" stroke-width="2"/>
+  <text x="252" y="168" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">13</text>
+  <circle cx="320" cy="132" r="32" fill="#470f55"/>
+  <g clip-path="url(#avatar-clip-light-all-14)">
+    <rect x="293.7" y="112" width="48.9" height="46.9" rx="9.8" fill="#71dbea"/>
+  </g>
+  <ellipse cx="308.1" cy="130.5" rx="2" ry="2" fill="#1a1a1a"/>
+  <ellipse cx="328.1" cy="130.5" rx="2" ry="2" fill="#1a1a1a"/>
+  <path d="M 312.3,141.5 Q 318.1,143.8 323.9,141.5" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="320" cy="132" r="31" fill="none" stroke="#a16136" stroke-width="2"/>
+  <text x="320" y="168" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">14</text>
+  <circle cx="388" cy="132" r="32" fill="#4f1f3a"/>
+  <g clip-path="url(#avatar-clip-light-all-15)">
+    <ellipse cx="398" cy="137.5" rx="28.7" ry="28.7" fill="#67ccd8"/>
+  </g>
+  <ellipse cx="389.5" cy="132.5" rx="2" ry="2" fill="#1a1a1a"/>
+  <ellipse cx="406.5" cy="132.5" rx="2" ry="2" fill="#1a1a1a"/>
+  <path d="M 392.1,143.5 Q 398,146 403.9,143.5" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="388" cy="132" r="31" fill="none" stroke="#a16436" stroke-width="2"/>
+  <text x="388" y="168" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">15</text>
+  <circle cx="456" cy="132" r="32" fill="#821042"/>
+  <g clip-path="url(#avatar-clip-light-all-16)">
+    <rect x="425.2" y="101.2" width="44" height="52.3" rx="13.4" fill="#50c9bb"/>
+  </g>
+  <ellipse cx="439.1" cy="122.3" rx="2" ry="2" fill="#1a1a1a"/>
+  <ellipse cx="455.3" cy="122.3" rx="2" ry="2" fill="#1a1a1a"/>
+  <path d="M 441.2,133.3 Q 447.2,136 453.2,133.3" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="456" cy="132" r="31" fill="none" stroke="#a16636" stroke-width="2"/>
+  <text x="456" y="168" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">16</text>
+  <circle cx="524" cy="132" r="32" fill="#41123f"/>
+  <g clip-path="url(#avatar-clip-light-all-17)">
+    <path d="M 491.7,115.7 Q 502.6,101.9 518.4,105.9 Q 534.3,110 541,124 Q 547.6,138.1 537.7,150 Q 527.7,162 511.3,161.9 Q 494.8,161.8 487.9,145.6 Q 480.9,129.5 491.7,115.7 Z" fill="#79ed4f"/>
+  </g>
+  <ellipse cx="507.5" cy="129" rx="2.1" ry="2.1" fill="#1a1a1a"/>
+  <ellipse cx="524.5" cy="129" rx="2.1" ry="2.1" fill="#1a1a1a"/>
+  <path d="M 510,140 Q 516,142.8 522,140" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="524" cy="132" r="31" fill="none" stroke="#a16936" stroke-width="2"/>
+  <text x="524" y="168" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">17</text>
+  <circle cx="592" cy="132" r="32" fill="#17a520"/>
+  <g clip-path="url(#avatar-clip-light-all-18)">
+    <path d="M 591.2,103.6 Q 613.2,96.2 626.1,114.5 Q 639,132.9 626,149.1 Q 613,165.4 593.7,160 Q 574.4,154.6 571.8,132.9 Q 569.2,111.1 591.2,103.6 Z" fill="#ef7adc"/>
+  </g>
+  <ellipse cx="593.5" cy="128.7" rx="2.1" ry="2.1" fill="#1a1a1a"/>
+  <ellipse cx="610.3" cy="128.7" rx="2.1" ry="2.1" fill="#1a1a1a"/>
+  <path d="M 595.8,139.7 Q 601.9,142.7 608,139.7" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="592" cy="132" r="31" fill="none" stroke="#a16b36" stroke-width="2"/>
+  <text x="592" y="168" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">18</text>
+  <circle cx="660" cy="132" r="32" fill="#926a33"/>
+  <g clip-path="url(#avatar-clip-light-all-19)">
+    <rect x="637.6" y="111.2" width="53.8" height="53.8" rx="3.3" transform="rotate(43.7 664.5 138.1)" fill="#4bd7d2"/>
+  </g>
+  <ellipse cx="655.8" cy="133.1" rx="2.1" ry="2.1" fill="#1a1a1a"/>
+  <ellipse cx="673.2" cy="133.1" rx="2.1" ry="2.1" fill="#1a1a1a"/>
+  <path d="M 658.4,144.1 Q 664.5,147.3 670.6,144.1" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="660" cy="132" r="31" fill="none" stroke="#a16e36" stroke-width="2"/>
+  <text x="660" y="168" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">19</text>
+  <circle cx="48" cy="216" r="32" fill="#426011"/>
+  <g clip-path="url(#avatar-clip-light-all-20)">
+    <path d="M 9.8,224.5 Q 2.8,205.1 15,189.5 Q 27.3,174 45.6,178 Q 63.9,182 69.9,198.3 Q 76,214.5 66.5,229.8 Q 57,245.1 36.9,244.5 Q 16.7,243.9 9.8,224.5 Z" fill="#6161d0"/>
+  </g>
+  <ellipse cx="34.2" cy="205.2" rx="2.2" ry="2.2" fill="#1a1a1a"/>
+  <ellipse cx="50.6" cy="205.2" rx="2.2" ry="2.2" fill="#1a1a1a"/>
+  <path d="M 36.2,216.2 Q 42.4,219.5 48.6,216.2" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="48" cy="216" r="31" fill="none" stroke="#a17036" stroke-width="2"/>
+  <text x="48" y="252" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">20</text>
+  <circle cx="116" cy="216" r="32" fill="#80bf24"/>
+  <g clip-path="url(#avatar-clip-light-all-21)">
+    <ellipse cx="115" cy="209.5" rx="24" ry="27.1" fill="#f34fde"/>
+  </g>
+  <ellipse cx="106.4" cy="204.5" rx="2.2" ry="2.2" fill="#1a1a1a"/>
+  <ellipse cx="123.6" cy="204.5" rx="2.2" ry="2.2" fill="#1a1a1a"/>
+  <path d="M 108.7,215.5 Q 115,219 121.3,215.5" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="116" cy="216" r="31" fill="none" stroke="#a17336" stroke-width="2"/>
+  <text x="116" y="252" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">21</text>
+  <circle cx="184" cy="216" r="32" fill="#821f79"/>
+  <g clip-path="url(#avatar-clip-light-all-22)">
+    <ellipse cx="193.1" cy="221.6" rx="24.9" ry="21.8" fill="#62ec94"/>
+  </g>
+  <ellipse cx="184.2" cy="216.6" rx="2.2" ry="2.2" fill="#1a1a1a"/>
+  <ellipse cx="202" cy="216.6" rx="2.2" ry="2.2" fill="#1a1a1a"/>
+  <path d="M 186.8,227.6 Q 193.1,231.3 199.4,227.6" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="184" cy="216" r="31" fill="none" stroke="#a17536" stroke-width="2"/>
+  <text x="184" y="252" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">22</text>
+  <circle cx="252" cy="216" r="32" fill="#421bb1"/>
+  <g clip-path="url(#avatar-clip-light-all-23)">
+    <path d="M 238,230.1 Q 225.7,215.2 238.8,202 Q 251.9,188.7 269.7,192.6 Q 287.5,196.5 285.1,214.6 Q 282.8,232.6 266.5,238.8 Q 250.2,245 238,230.1 Z" fill="#41f23c"/>
+  </g>
+  <ellipse cx="251.6" cy="210.7" rx="2.3" ry="2.3" fill="#1a1a1a"/>
+  <ellipse cx="268.8" cy="210.7" rx="2.3" ry="2.3" fill="#1a1a1a"/>
+  <path d="M 253.8,221.7 Q 260.2,225.5 266.6,221.7" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="252" cy="216" r="31" fill="none" stroke="#a17836" stroke-width="2"/>
+  <text x="252" y="252" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">23</text>
+  <circle cx="320" cy="216" r="32" fill="#243a69"/>
+  <g clip-path="url(#avatar-clip-light-all-24)">
+    <rect x="295.4" y="190.6" width="45.9" height="45.9" rx="6.6" transform="rotate(50.3 318.4 213.5)" fill="#eae9a4"/>
+  </g>
+  <ellipse cx="309.3" cy="208.5" rx="2.3" ry="2.3" fill="#1a1a1a"/>
+  <ellipse cx="327.5" cy="208.5" rx="2.3" ry="2.3" fill="#1a1a1a"/>
+  <path d="M 312,219.5 Q 318.4,223.5 324.8,219.5" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="320" cy="216" r="31" fill="none" stroke="#a17a36" stroke-width="2"/>
+  <text x="320" y="252" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">24</text>
+  <circle cx="388" cy="216" r="32" fill="#554219"/>
+  <g clip-path="url(#avatar-clip-light-all-25)">
+    <path d="M 360.2,230.9 Q 357.3,215 364.3,200.3 Q 371.4,185.5 389.7,187.5 Q 407.9,189.4 409.5,206 Q 411.1,222.6 403.7,234.8 Q 396.3,247.1 379.7,246.9 Q 363.2,246.8 360.2,230.9 Z" fill="#57e3e0"/>
+  </g>
+  <ellipse cx="375" cy="213.9" rx="2.3" ry="2.3" fill="#1a1a1a"/>
+  <ellipse cx="394.8" cy="213.9" rx="2.3" ry="2.3" fill="#1a1a1a"/>
+  <path d="M 378.4,224.9 Q 384.9,229.1 391.4,224.9" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="388" cy="216" r="31" fill="none" stroke="#a17d36" stroke-width="2"/>
+  <text x="388" y="252" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">25</text>
+  <circle cx="456" cy="216" r="32" fill="#5019c0"/>
+  <g clip-path="url(#avatar-clip-light-all-26)">
+    <path d="M 435.8,234.7 Q 430.5,216 442.1,202.5 Q 453.8,189 471.6,197.3 Q 489.5,205.7 484.8,224.6 Q 480.1,243.5 460.6,248.4 Q 441.1,253.3 435.8,234.7 Z" fill="#f6df7d"/>
+  </g>
+  <ellipse cx="449.5" cy="215.9" rx="2.4" ry="2.4" fill="#1a1a1a"/>
+  <ellipse cx="467.1" cy="215.9" rx="2.4" ry="2.4" fill="#1a1a1a"/>
+  <path d="M 451.7,226.9 Q 458.3,231.2 464.9,226.9" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="456" cy="216" r="31" fill="none" stroke="#a17f36" stroke-width="2"/>
+  <text x="456" y="252" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">26</text>
+  <circle cx="524" cy="216" r="32" fill="#9d9037"/>
+  <g clip-path="url(#avatar-clip-light-all-27)">
+    <rect x="499.5" y="197.8" width="49.3" height="44.1" rx="9.5" fill="#4e4ded"/>
+  </g>
+  <ellipse cx="515" cy="214.9" rx="2.4" ry="2.4" fill="#1a1a1a"/>
+  <ellipse cx="533.2" cy="214.9" rx="2.4" ry="2.4" fill="#1a1a1a"/>
+  <path d="M 517.5,225.9 Q 524.1,230.4 530.7,225.9" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="524" cy="216" r="31" fill="none" stroke="#a18236" stroke-width="2"/>
+  <text x="524" y="252" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">27</text>
+  <circle cx="592" cy="216" r="32" fill="#42228e"/>
+  <g clip-path="url(#avatar-clip-light-all-28)">
+    <rect x="571.4" y="185.4" width="45.9" height="45.9" rx="6.8" transform="rotate(47.8 594.4 208.3)" fill="#bee953"/>
+  </g>
+  <ellipse cx="586" cy="203.3" rx="2.4" ry="2.4" fill="#1a1a1a"/>
+  <ellipse cx="602.8" cy="203.3" rx="2.4" ry="2.4" fill="#1a1a1a"/>
+  <path d="M 587.7,214.3 Q 594.4,219 601.1,214.3" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="592" cy="216" r="31" fill="none" stroke="#a18436" stroke-width="2"/>
+  <text x="592" y="252" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">28</text>
+  <circle cx="660" cy="216" r="32" fill="#2421be"/>
+  <g clip-path="url(#avatar-clip-light-all-29)">
+    <rect x="625.9" y="196.5" width="52" height="52" rx="4.2" transform="rotate(55.1 651.9 222.5)" fill="#ebbfa8"/>
+  </g>
+  <ellipse cx="642.9" cy="217.5" rx="2.5" ry="2.5" fill="#1a1a1a"/>
+  <ellipse cx="660.9" cy="217.5" rx="2.5" ry="2.5" fill="#1a1a1a"/>
+  <path d="M 645.2,228.5 Q 651.9,233.3 658.6,228.5" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="660" cy="216" r="31" fill="none" stroke="#a18736" stroke-width="2"/>
+  <text x="660" y="252" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">29</text>
+  <circle cx="48" cy="300" r="32" fill="#8c3a3c"/>
+  <g clip-path="url(#avatar-clip-light-all-30)">
+    <path d="M 32.8,299 Q 35.1,280.8 52,271.3 Q 69,261.8 79.9,279.3 Q 90.9,296.8 80.3,314.8 Q 69.7,332.8 50.1,325 Q 30.6,317.2 32.8,299 Z" fill="#73d67f"/>
+  </g>
+  <ellipse cx="49.6" cy="292.1" rx="2.5" ry="2.5" fill="#1a1a1a"/>
+  <ellipse cx="66" cy="292.1" rx="2.5" ry="2.5" fill="#1a1a1a"/>
+  <path d="M 51,303.1 Q 57.8,312.8 64.6,303.1 Z" fill="#1a1a1a"/>
+  <circle cx="48" cy="300" r="31" fill="none" stroke="#a18936" stroke-width="2"/>
+  <text x="48" y="336" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">30</text>
+  <circle cx="116" cy="300" r="32" fill="#65ab20"/>
+  <g clip-path="url(#avatar-clip-light-all-31)">
+    <ellipse cx="124.1" cy="299.1" rx="24.3" ry="21" fill="#a273d3"/>
+  </g>
+  <ellipse cx="116" cy="294.1" rx="2.5" ry="2.5" fill="#1a1a1a"/>
+  <ellipse cx="132.2" cy="294.1" rx="2.5" ry="2.5" fill="#1a1a1a"/>
+  <path d="M 117.2,305.1 Q 124.1,314.9 131,305.1 Z" fill="#1a1a1a"/>
+  <circle cx="116" cy="300" r="31" fill="none" stroke="#a18c36" stroke-width="2"/>
+  <text x="116" y="336" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">31</text>
+  <circle cx="184" cy="300" r="32" fill="#229850"/>
+  <g clip-path="url(#avatar-clip-light-all-32)">
+    <ellipse cx="174.8" cy="303.6" rx="24.8" ry="21.3" fill="#f0c791"/>
+  </g>
+  <ellipse cx="165.2" cy="298.6" rx="2.5" ry="2.5" fill="#1a1a1a"/>
+  <ellipse cx="184.4" cy="298.6" rx="2.5" ry="2.5" fill="#1a1a1a"/>
+  <path d="M 167.9,309.6 Q 174.8,319.5 181.7,309.6 Z" fill="#1a1a1a"/>
+  <circle cx="184" cy="300" r="31" fill="none" stroke="#a18e36" stroke-width="2"/>
+  <text x="184" y="336" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">32</text>
+  <circle cx="252" cy="300" r="32" fill="#491d3b"/>
+  <g clip-path="url(#avatar-clip-light-all-33)">
+    <rect x="219.4" y="265.6" width="55.2" height="55.2" rx="5.5" transform="rotate(43.7 247 293.2)" fill="#b7f0a2"/>
+  </g>
+  <ellipse cx="238.2" cy="288.2" rx="2.5" ry="2.6" fill="#1a1a1a"/>
+  <ellipse cx="255.8" cy="288.2" rx="2.5" ry="2.6" fill="#1a1a1a"/>
+  <path d="M 240,299.2 Q 247,309.2 254,299.2 Z" fill="#1a1a1a"/>
+  <circle cx="252" cy="300" r="31" fill="none" stroke="#a19136" stroke-width="2"/>
+  <text x="252" y="336" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">33</text>
+  <circle cx="320" cy="300" r="32" fill="#919730"/>
+  <g clip-path="url(#avatar-clip-light-all-34)">
+    <rect x="301.9" y="273.9" width="50.9" height="50.9" rx="6.5" transform="rotate(24.1 327.4 299.3)" fill="#e99ad8"/>
+  </g>
+  <ellipse cx="318.5" cy="294.3" rx="2.5" ry="2.6" fill="#1a1a1a"/>
+  <ellipse cx="336.3" cy="294.3" rx="2.5" ry="2.6" fill="#1a1a1a"/>
+  <path d="M 320.4,305.3 Q 327.4,315.4 334.4,305.3 Z" fill="#1a1a1a"/>
+  <circle cx="320" cy="300" r="31" fill="none" stroke="#a19336" stroke-width="2"/>
+  <text x="320" y="336" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">34</text>
+  <circle cx="388" cy="300" r="32" fill="#3e9347"/>
+  <g clip-path="url(#avatar-clip-light-all-35)">
+    <ellipse cx="397.7" cy="302.9" rx="21.7" ry="21.9" fill="#f178ed"/>
+  </g>
+  <ellipse cx="388" cy="297.9" rx="2.5" ry="2.6" fill="#1a1a1a"/>
+  <ellipse cx="407.4" cy="297.9" rx="2.5" ry="2.6" fill="#1a1a1a"/>
+  <path d="M 390.6,308.9 Q 397.7,319.1 404.8,308.9 Z" fill="#1a1a1a"/>
+  <circle cx="388" cy="300" r="31" fill="none" stroke="#a19636" stroke-width="2"/>
+  <text x="388" y="336" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">35</text>
+  <circle cx="456" cy="300" r="32" fill="#1c533b"/>
+  <g clip-path="url(#avatar-clip-light-all-36)">
+    <path d="M 427.9,315.1 Q 423.7,298.4 435.4,286.7 Q 447.1,274.9 463.3,283.8 Q 479.5,292.8 473.7,310.2 Q 467.9,327.7 450,329.7 Q 432.1,331.7 427.9,315.1 Z" fill="#ccbe52"/>
+  </g>
+  <ellipse cx="440.3" cy="299.9" rx="2.5" ry="2.6" fill="#1a1a1a"/>
+  <ellipse cx="457.7" cy="299.9" rx="2.5" ry="2.6" fill="#1a1a1a"/>
+  <path d="M 441.8,310.9 Q 449,321.1 456.2,310.9 Z" fill="#1a1a1a"/>
+  <circle cx="456" cy="300" r="31" fill="none" stroke="#a19836" stroke-width="2"/>
+  <text x="456" y="336" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">36</text>
+  <circle cx="524" cy="300" r="32" fill="#25ac74"/>
+  <g clip-path="url(#avatar-clip-light-all-37)">
+    <rect x="497.8" y="273.7" width="44.3" height="44.3" rx="6.5" transform="rotate(29.6 519.9 295.8)" fill="#b778ea"/>
+  </g>
+  <ellipse cx="511.2" cy="290.8" rx="2.5" ry="2.6" fill="#1a1a1a"/>
+  <ellipse cx="528.6" cy="290.8" rx="2.5" ry="2.6" fill="#1a1a1a"/>
+  <path d="M 512.7,301.8 Q 519.9,312.1 527.1,301.8 Z" fill="#1a1a1a"/>
+  <circle cx="524" cy="300" r="31" fill="none" stroke="#a19b36" stroke-width="2"/>
+  <text x="524" y="336" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">37</text>
+  <circle cx="592" cy="300" r="32" fill="#21396d"/>
+  <g clip-path="url(#avatar-clip-light-all-38)">
+    <path d="M 611.7,319.3 Q 604.3,339.5 585.7,333.5 Q 567.2,327.6 563.4,312.1 Q 559.6,296.6 573.7,284.1 Q 587.8,271.6 603.5,285.4 Q 619.1,299.2 611.7,319.3 Z" fill="#a6e950"/>
+  </g>
+  <ellipse cx="576.7" cy="302.2" rx="2.6" ry="2.7" fill="#1a1a1a"/>
+  <ellipse cx="592.9" cy="302.2" rx="2.6" ry="2.7" fill="#1a1a1a"/>
+  <path d="M 577.5,313.2 Q 584.8,323.6 592.1,313.2 Z" fill="#1a1a1a"/>
+  <circle cx="592" cy="300" r="31" fill="none" stroke="#a19d36" stroke-width="2"/>
+  <text x="592" y="336" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">38</text>
+  <circle cx="660" cy="300" r="32" fill="#9f4c2d"/>
+  <g clip-path="url(#avatar-clip-light-all-39)">
+    <path d="M 632.7,283.5 Q 632,264.6 651.9,258.6 Q 671.9,252.6 684.3,267.2 Q 696.8,281.9 693.8,299.8 Q 690.9,317.7 673.9,320.4 Q 656.9,323.1 645.1,312.8 Q 633.4,302.5 632.7,283.5 Z" fill="#9cef9e"/>
+  </g>
+  <ellipse cx="654.1" cy="287.8" rx="2.6" ry="2.7" fill="#1a1a1a"/>
+  <ellipse cx="672.5" cy="287.8" rx="2.6" ry="2.7" fill="#1a1a1a"/>
+  <path d="M 656,298.8 Q 663.3,309.3 670.6,298.8 Z" fill="#1a1a1a"/>
+  <circle cx="660" cy="300" r="31" fill="none" stroke="#a1a036" stroke-width="2"/>
+  <text x="660" y="336" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">39</text>
+  <circle cx="48" cy="384" r="32" fill="#18391b"/>
+  <g clip-path="url(#avatar-clip-light-all-40)">
+    <rect x="20.2" y="350.1" width="54.6" height="54" rx="3.9" fill="#f68eaa"/>
+  </g>
+  <ellipse cx="37.9" cy="372.1" rx="2.6" ry="2.7" fill="#1a1a1a"/>
+  <ellipse cx="57.1" cy="372.1" rx="2.6" ry="2.7" fill="#1a1a1a"/>
+  <path d="M 40.1,383.1 Q 47.5,393.7 54.9,383.1 Z" fill="#1a1a1a"/>
+  <circle cx="48" cy="384" r="31" fill="none" stroke="#9fa136" stroke-width="2"/>
+  <text x="48" y="420" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">40</text>
+  <circle cx="116" cy="384" r="32" fill="#761722"/>
+  <g clip-path="url(#avatar-clip-light-all-41)">
+    <path d="M 136.3,409.5 Q 124.5,426.8 104.7,421.1 Q 85,415.3 75.9,397.2 Q 66.8,379 82.1,367.1 Q 97.4,355.2 114,357.3 Q 130.6,359.4 139.4,375.8 Q 148.1,392.3 136.3,409.5 Z" fill="#44d9ce"/>
+  </g>
+  <ellipse cx="100.7" cy="380.9" rx="2.6" ry="2.7" fill="#1a1a1a"/>
+  <ellipse cx="117.3" cy="380.9" rx="2.6" ry="2.7" fill="#1a1a1a"/>
+  <path d="M 101.5,391.9 Q 109,402.6 116.5,391.9 Z" fill="#1a1a1a"/>
+  <circle cx="116" cy="384" r="31" fill="none" stroke="#9ca136" stroke-width="2"/>
+  <text x="116" y="420" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">41</text>
+  <circle cx="184" cy="384" r="32" fill="#0f6069"/>
+  <g clip-path="url(#avatar-clip-light-all-42)">
+    <ellipse cx="191.1" cy="386.4" rx="24.2" ry="26.1" fill="#e7a4d6"/>
+  </g>
+  <ellipse cx="182.5" cy="381.4" rx="2.6" ry="2.8" fill="#1a1a1a"/>
+  <ellipse cx="199.7" cy="381.4" rx="2.6" ry="2.8" fill="#1a1a1a"/>
+  <path d="M 183.6,392.4 Q 191.1,403.2 198.6,392.4 Z" fill="#1a1a1a"/>
+  <circle cx="184" cy="384" r="31" fill="none" stroke="#9aa136" stroke-width="2"/>
+  <text x="184" y="420" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">42</text>
+  <circle cx="252" cy="384" r="32" fill="#612952"/>
+  <g clip-path="url(#avatar-clip-light-all-43)">
+    <ellipse cx="255.7" cy="391.9" rx="24.6" ry="21" fill="#4cd8a4"/>
+  </g>
+  <ellipse cx="246.7" cy="386.9" rx="2.6" ry="2.8" fill="#1a1a1a"/>
+  <ellipse cx="264.7" cy="386.9" rx="2.6" ry="2.8" fill="#1a1a1a"/>
+  <path d="M 248.1,397.9 Q 255.7,408.8 263.3,397.9 Z" fill="#1a1a1a"/>
+  <circle cx="252" cy="384" r="31" fill="none" stroke="#97a136" stroke-width="2"/>
+  <text x="252" y="420" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">43</text>
+  <circle cx="320" cy="384" r="32" fill="#6c3c2c"/>
+  <g clip-path="url(#avatar-clip-light-all-44)">
+    <rect x="301" y="362.3" width="52.6" height="52.6" rx="3.9" transform="rotate(56.8 327.3 388.6)" fill="#50b4df"/>
+  </g>
+  <ellipse cx="317.8" cy="383.6" rx="2.6" ry="2.8" fill="#1a1a1a"/>
+  <ellipse cx="336.8" cy="383.6" rx="2.6" ry="2.8" fill="#1a1a1a"/>
+  <path d="M 319.7,394.6 Q 327.3,405.6 334.9,394.6 Z" fill="#1a1a1a"/>
+  <circle cx="320" cy="384" r="31" fill="none" stroke="#95a136" stroke-width="2"/>
+  <text x="320" y="420" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">44</text>
+  <circle cx="388" cy="384" r="32" fill="#653312"/>
+  <g clip-path="url(#avatar-clip-light-all-45)">
+    <rect x="369.4" y="357.4" width="51.9" height="51.9" rx="2.3" transform="rotate(26.8 395.4 383.4)" fill="#a5caeb"/>
+  </g>
+  <ellipse cx="385.6" cy="378.4" rx="2.6" ry="2.8" fill="#1a1a1a"/>
+  <ellipse cx="405.2" cy="378.4" rx="2.6" ry="2.8" fill="#1a1a1a"/>
+  <path d="M 387.7,389.4 Q 395.4,400.5 403.1,389.4 Z" fill="#1a1a1a"/>
+  <circle cx="388" cy="384" r="31" fill="none" stroke="#92a136" stroke-width="2"/>
+  <text x="388" y="420" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">45</text>
+  <circle cx="456" cy="384" r="32" fill="#128d7f"/>
+  <g clip-path="url(#avatar-clip-light-all-46)">
+    <rect x="439.8" y="350.4" width="47.1" height="54.2" rx="6.3" fill="#dfa897"/>
+  </g>
+  <ellipse cx="453.5" cy="372.5" rx="2.6" ry="2.8" fill="#1a1a1a"/>
+  <ellipse cx="473.3" cy="372.5" rx="2.6" ry="2.8" fill="#1a1a1a"/>
+  <path d="M 455.6,383.5 Q 463.4,394.6 471.2,383.5 Z" fill="#1a1a1a"/>
+  <circle cx="456" cy="384" r="31" fill="none" stroke="#90a136" stroke-width="2"/>
+  <text x="456" y="420" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">46</text>
+  <circle cx="524" cy="384" r="32" fill="#60167b"/>
+  <g clip-path="url(#avatar-clip-light-all-47)">
+    <path d="M 500.8,407.9 Q 485.3,395.3 492.2,377.1 Q 499.2,358.9 516,354.5 Q 532.9,350.1 544,362.2 Q 555,374.3 551.9,390 Q 548.9,405.6 532.6,413.1 Q 516.4,420.6 500.8,407.9 Z" fill="#dde2a6"/>
+  </g>
+  <ellipse cx="516" cy="378.3" rx="2.6" ry="2.9" fill="#1a1a1a"/>
+  <ellipse cx="534.2" cy="378.3" rx="2.6" ry="2.9" fill="#1a1a1a"/>
+  <path d="M 517.3,389.3 Q 525.1,400.5 532.9,389.3 Z" fill="#1a1a1a"/>
+  <circle cx="524" cy="384" r="31" fill="none" stroke="#8da136" stroke-width="2"/>
+  <text x="524" y="420" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">47</text>
+  <circle cx="592" cy="384" r="32" fill="#1d4d37"/>
+  <g clip-path="url(#avatar-clip-light-all-48)">
+    <rect x="561.9" y="359.4" width="54" height="54" rx="2.5" transform="rotate(53.4 588.9 386.4)" fill="#d57b57"/>
+  </g>
+  <ellipse cx="580.3" cy="381.4" rx="2.6" ry="2.9" fill="#1a1a1a"/>
+  <ellipse cx="597.5" cy="381.4" rx="2.6" ry="2.9" fill="#1a1a1a"/>
+  <path d="M 581,392.4 Q 588.9,403.7 596.8,392.4 Z" fill="#1a1a1a"/>
+  <circle cx="592" cy="384" r="31" fill="none" stroke="#8ba136" stroke-width="2"/>
+  <text x="592" y="420" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">48</text>
+  <circle cx="660" cy="384" r="32" fill="#76167c"/>
+  <g clip-path="url(#avatar-clip-light-all-49)">
+    <rect x="635.5" y="359.4" width="47.5" height="46.2" rx="14.8" fill="#a1e1d2"/>
+  </g>
+  <ellipse cx="650.2" cy="377.5" rx="2.6" ry="2.9" fill="#1a1a1a"/>
+  <ellipse cx="668.2" cy="377.5" rx="2.6" ry="2.9" fill="#1a1a1a"/>
+  <path d="M 651.3,388.5 Q 659.2,399.9 667.1,388.5 Z" fill="#1a1a1a"/>
+  <circle cx="660" cy="384" r="31" fill="none" stroke="#88a136" stroke-width="2"/>
+  <text x="660" y="420" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">49</text>
+  <circle cx="48" cy="468" r="32" fill="#b620ae"/>
+  <g clip-path="url(#avatar-clip-light-all-50)">
+    <rect x="25.3" y="441" width="51.2" height="51.2" rx="2.5" transform="rotate(20.8 50.9 466.6)" fill="#d4d476"/>
+  </g>
+  <ellipse cx="42.3" cy="461.6" rx="2.6" ry="2.9" fill="#1a1a1a"/>
+  <ellipse cx="59.5" cy="461.6" rx="2.6" ry="2.9" fill="#1a1a1a"/>
+  <path d="M 42.9,472.6 Q 50.9,484.1 58.9,472.6 Z" fill="#1a1a1a"/>
+  <circle cx="48" cy="468" r="31" fill="none" stroke="#86a136" stroke-width="2"/>
+  <text x="48" y="504" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">50</text>
+  <circle cx="116" cy="468" r="32" fill="#34461c"/>
+  <g clip-path="url(#avatar-clip-light-all-51)">
+    <ellipse cx="109.6" cy="474.8" rx="20" ry="29.8" fill="#de8feb"/>
+  </g>
+  <ellipse cx="101" cy="469.8" rx="2.6" ry="3" fill="#1a1a1a"/>
+  <ellipse cx="118.2" cy="469.8" rx="2.6" ry="3" fill="#1a1a1a"/>
+  <path d="M 101.5,480.8 Q 109.6,492.4 117.7,480.8 Z" fill="#1a1a1a"/>
+  <circle cx="116" cy="468" r="31" fill="none" stroke="#83a136" stroke-width="2"/>
+  <text x="116" y="504" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">51</text>
+  <circle cx="184" cy="468" r="32" fill="#682269"/>
+  <g clip-path="url(#avatar-clip-light-all-52)">
+    <ellipse cx="176.7" cy="474.5" rx="24.1" ry="24.8" fill="#daf69b"/>
+  </g>
+  <ellipse cx="167.2" cy="469.5" rx="2.7" ry="3" fill="#1a1a1a"/>
+  <ellipse cx="186.2" cy="469.5" rx="2.7" ry="3" fill="#1a1a1a"/>
+  <path d="M 168.6,480.5 Q 176.7,492.2 184.8,480.5 Z" fill="#1a1a1a"/>
+  <circle cx="184" cy="468" r="31" fill="none" stroke="#81a136" stroke-width="2"/>
+  <text x="184" y="504" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">52</text>
+  <circle cx="252" cy="468" r="32" fill="#119194"/>
+  <g clip-path="url(#avatar-clip-light-all-53)">
+    <rect x="231.1" y="447.9" width="54.6" height="46.5" rx="6" fill="#da7341"/>
+  </g>
+  <ellipse cx="250.1" cy="466.2" rx="2.7" ry="3" fill="#1a1a1a"/>
+  <ellipse cx="266.7" cy="466.2" rx="2.7" ry="3" fill="#1a1a1a"/>
+  <path d="M 250.2,477.2 Q 258.4,489 266.6,477.2 Z" fill="#1a1a1a"/>
+  <circle cx="252" cy="468" r="31" fill="none" stroke="#7ea136" stroke-width="2"/>
+  <text x="252" y="504" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">53</text>
+  <circle cx="320" cy="468" r="32" fill="#11470b"/>
+  <g clip-path="url(#avatar-clip-light-all-54)">
+    <rect x="282.9" y="443.5" width="55" height="55" rx="2.8" transform="rotate(33.8 310.4 471)" fill="#bd95f4"/>
+  </g>
+  <ellipse cx="301.2" cy="466" rx="2.7" ry="3" fill="#1a1a1a"/>
+  <ellipse cx="319.6" cy="466" rx="2.7" ry="3" fill="#1a1a1a"/>
+  <path d="M 302.2,477 Q 310.4,488.9 318.6,477 Z" fill="#1a1a1a"/>
+  <circle cx="320" cy="468" r="31" fill="none" stroke="#7ca136" stroke-width="2"/>
+  <text x="320" y="504" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">54</text>
+  <circle cx="388" cy="468" r="32" fill="#194d35"/>
+  <g clip-path="url(#avatar-clip-light-all-55)">
+    <rect x="358.4" y="434.3" width="54.7" height="54.7" rx="3.8" transform="rotate(49.4 385.8 461.7)" fill="#cfaae7"/>
+  </g>
+  <ellipse cx="377.1" cy="456.7" rx="2.7" ry="3" fill="#1a1a1a"/>
+  <ellipse cx="394.5" cy="456.7" rx="2.7" ry="3" fill="#1a1a1a"/>
+  <path d="M 377.5,467.7 Q 385.8,479.6 394.1,467.7 Z" fill="#1a1a1a"/>
+  <circle cx="388" cy="468" r="31" fill="none" stroke="#79a136" stroke-width="2"/>
+  <text x="388" y="504" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">55</text>
+  <circle cx="456" cy="468" r="32" fill="#116b44"/>
+  <g clip-path="url(#avatar-clip-light-all-56)">
+    <rect x="425.2" y="433.6" width="55" height="53.1" rx="9.1" fill="#f38a7a"/>
+  </g>
+  <ellipse cx="444.4" cy="455.2" rx="2.7" ry="3.1" fill="#1a1a1a"/>
+  <ellipse cx="461" cy="455.2" rx="2.7" ry="3.1" fill="#1a1a1a"/>
+  <path d="M 444.3,466.2 Q 452.7,478.2 461.1,466.2 Z" fill="#1a1a1a"/>
+  <circle cx="456" cy="468" r="31" fill="none" stroke="#77a136" stroke-width="2"/>
+  <text x="456" y="504" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">56</text>
+  <circle cx="524" cy="468" r="32" fill="#1b6218"/>
+  <g clip-path="url(#avatar-clip-light-all-57)">
+    <path d="M 522.5,485.9 Q 505.8,478.9 508.4,461.6 Q 511.1,444.4 527.4,440.5 Q 543.6,436.6 554.6,451.2 Q 565.5,465.8 552.4,479.3 Q 539.3,492.9 522.5,485.9 Z" fill="#ee3d97"/>
+  </g>
+  <ellipse cx="523" cy="457.9" rx="2.7" ry="3.1" fill="#1a1a1a"/>
+  <ellipse cx="541.8" cy="457.9" rx="2.7" ry="3.1" fill="#1a1a1a"/>
+  <path d="M 524,468.9 Q 532.4,481 540.8,468.9 Z" fill="#1a1a1a"/>
+  <circle cx="524" cy="468" r="31" fill="none" stroke="#74a136" stroke-width="2"/>
+  <text x="524" y="504" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">57</text>
+  <circle cx="592" cy="468" r="32" fill="#5f175e"/>
+  <g clip-path="url(#avatar-clip-light-all-58)">
+    <rect x="565.7" y="441.5" width="48.8" height="53.6" rx="14.5" fill="#68dd92"/>
+  </g>
+  <ellipse cx="582.1" cy="463.3" rx="2.7" ry="3.1" fill="#1a1a1a"/>
+  <ellipse cx="598.1" cy="463.3" rx="2.7" ry="3.1" fill="#1a1a1a"/>
+  <path d="M 581.6,474.3 Q 590.1,486.5 598.6,474.3 Z" fill="#1a1a1a"/>
+  <circle cx="592" cy="468" r="31" fill="none" stroke="#72a136" stroke-width="2"/>
+  <text x="592" y="504" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">58</text>
+  <circle cx="660" cy="468" r="32" fill="#18168f"/>
+  <g clip-path="url(#avatar-clip-light-all-59)">
+    <rect x="639.5" y="443.8" width="55.2" height="47.7" rx="13.1" fill="#d4924a"/>
+  </g>
+  <ellipse cx="659" cy="462.6" rx="2.7" ry="3.1" fill="#1a1a1a"/>
+  <ellipse cx="675.2" cy="462.6" rx="2.7" ry="3.1" fill="#1a1a1a"/>
+  <path d="M 658.6,473.6 Q 667.1,485.9 675.6,473.6 Z" fill="#1a1a1a"/>
+  <circle cx="660" cy="468" r="31" fill="none" stroke="#6fa136" stroke-width="2"/>
+  <text x="660" y="504" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">59</text>
+  <circle cx="48" cy="552" r="32" fill="#30ae66"/>
+  <g clip-path="url(#avatar-clip-light-all-60)">
+    <ellipse cx="53.6" cy="544.9" rx="22.6" ry="29.5" fill="#ea9288"/>
+  </g>
+  <ellipse cx="44.6" cy="539.9" rx="2.7" ry="3.1" fill="#1a1a1a"/>
+  <ellipse cx="62.6" cy="539.9" rx="2.7" ry="3.1" fill="#1a1a1a"/>
+  <path d="M 45,550.9 Q 53.6,563.3 62.2,550.9 Z" fill="#1a1a1a"/>
+  <circle cx="48" cy="552" r="31" fill="none" stroke="#6da136" stroke-width="2"/>
+  <text x="48" y="588" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">60</text>
+  <circle cx="116" cy="552" r="32" fill="#1faf20"/>
+  <g clip-path="url(#avatar-clip-light-all-61)">
+    <path d="M 114.7,534.1 Q 127.8,529.8 141.4,536.2 Q 155.1,542.6 153.4,559.4 Q 151.8,576.1 136.5,579.5 Q 121.3,582.9 108.2,575.5 Q 95.1,568.1 98.4,553.2 Q 101.7,538.4 114.7,534.1 Z" fill="#883fe1"/>
+  </g>
+  <ellipse cx="115.8" cy="550.6" rx="2.7" ry="3.2" fill="#1a1a1a"/>
+  <ellipse cx="133.4" cy="550.6" rx="2.7" ry="3.2" fill="#1a1a1a"/>
+  <path d="M 115.9,561.6 Q 124.6,574.1 133.3,561.6 Z" fill="#1a1a1a"/>
+  <circle cx="116" cy="552" r="31" fill="none" stroke="#6aa136" stroke-width="2"/>
+  <text x="116" y="588" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">61</text>
+  <circle cx="184" cy="552" r="32" fill="#a42473"/>
+  <g clip-path="url(#avatar-clip-light-all-62)">
+    <rect x="159.6" y="529" width="45.7" height="45.7" rx="6.6" transform="rotate(38 182.4 551.9)" fill="#a7d5e8"/>
+  </g>
+  <ellipse cx="172.5" cy="546.9" rx="2.7" ry="3.2" fill="#1a1a1a"/>
+  <ellipse cx="192.3" cy="546.9" rx="2.7" ry="3.2" fill="#1a1a1a"/>
+  <path d="M 173.7,557.9 Q 182.4,570.5 191.1,557.9 Z" fill="#1a1a1a"/>
+  <circle cx="184" cy="552" r="31" fill="none" stroke="#68a136" stroke-width="2"/>
+  <text x="184" y="588" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">62</text>
+  <circle cx="252" cy="552" r="32" fill="#583081"/>
+  <g clip-path="url(#avatar-clip-light-all-63)">
+    <ellipse cx="243.5" cy="558" rx="24.8" ry="23.8" fill="#80d36f"/>
+  </g>
+  <ellipse cx="235.3" cy="553" rx="2.7" ry="3.2" fill="#1a1a1a"/>
+  <ellipse cx="251.7" cy="553" rx="2.7" ry="3.2" fill="#1a1a1a"/>
+  <path d="M 234.7,564 Q 243.5,576.7 252.3,564 Z" fill="#1a1a1a"/>
+  <circle cx="252" cy="552" r="31" fill="none" stroke="#65a136" stroke-width="2"/>
+  <text x="252" y="588" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">63</text>
+  <circle cx="320" cy="552" r="32" fill="#328038"/>
+  <g clip-path="url(#avatar-clip-light-all-64)">
+    <rect x="283.6" y="531.7" width="54" height="54" rx="7" transform="rotate(20.2 310.6 558.7)" fill="#db61ea"/>
+  </g>
+  <ellipse cx="301.2" cy="553.7" rx="2.7" ry="3.2" fill="#1a1a1a"/>
+  <ellipse cx="320" cy="553.7" rx="2.7" ry="3.2" fill="#1a1a1a"/>
+  <path d="M 301.8,564.7 Q 310.6,577.5 319.4,564.7 Z" fill="#1a1a1a"/>
+  <circle cx="320" cy="552" r="31" fill="none" stroke="#63a136" stroke-width="2"/>
+  <text x="320" y="588" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">64</text>
+  <circle cx="388" cy="552" r="32" fill="#a92679"/>
+  <g clip-path="url(#avatar-clip-light-all-65)">
+    <path d="M 420.8,560.1 Q 422.1,577.1 405.1,579.7 Q 388,582.4 377.7,572.5 Q 367.4,562.6 365.7,545.9 Q 364,529.2 380.8,527.2 Q 397.5,525.2 408.5,534.1 Q 419.5,543.1 420.8,560.1 Z" fill="#93ecdf"/>
+  </g>
+  <ellipse cx="383.2" cy="548" rx="2.8" ry="3.3" fill="#1a1a1a"/>
+  <ellipse cx="402.6" cy="548" rx="2.8" ry="3.3" fill="#1a1a1a"/>
+  <path d="M 384,559 Q 392.9,571.9 401.8,559 Z" fill="#1a1a1a"/>
+  <circle cx="388" cy="552" r="31" fill="none" stroke="#60a136" stroke-width="2"/>
+  <text x="388" y="588" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">65</text>
+  <circle cx="456" cy="552" r="32" fill="#0f4070"/>
+  <g clip-path="url(#avatar-clip-light-all-66)">
+    <rect x="427.4" y="525" width="52.9" height="52.9" rx="2.6" transform="rotate(54.8 453.9 551.5)" fill="#ebcb98"/>
+  </g>
+  <ellipse cx="444.7" cy="546.5" rx="2.8" ry="3.3" fill="#1a1a1a"/>
+  <ellipse cx="463.1" cy="546.5" rx="2.8" ry="3.3" fill="#1a1a1a"/>
+  <path d="M 444.9,557.5 Q 453.9,570.4 462.9,557.5 Z" fill="#1a1a1a"/>
+  <circle cx="456" cy="552" r="31" fill="none" stroke="#5ea136" stroke-width="2"/>
+  <text x="456" y="588" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">66</text>
+  <circle cx="524" cy="552" r="32" fill="#1a523b"/>
+  <g clip-path="url(#avatar-clip-light-all-67)">
+    <rect x="504.9" y="529.5" width="53.7" height="51.9" rx="3.6" fill="#d8b44f"/>
+  </g>
+  <ellipse cx="522.8" cy="550.5" rx="2.8" ry="3.3" fill="#1a1a1a"/>
+  <ellipse cx="540.6" cy="550.5" rx="2.8" ry="3.3" fill="#1a1a1a"/>
+  <path d="M 522.7,561.5 Q 531.7,574.5 540.7,561.5 Z" fill="#1a1a1a"/>
+  <circle cx="524" cy="552" r="31" fill="none" stroke="#5ba136" stroke-width="2"/>
+  <text x="524" y="588" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">67</text>
+  <circle cx="592" cy="552" r="32" fill="#1b1249"/>
+  <g clip-path="url(#avatar-clip-light-all-68)">
+    <path d="M 557.7,535.7 Q 564.7,517.9 584.3,518.2 Q 603.9,518.5 609.4,538.1 Q 615,557.7 597.8,566.6 Q 580.6,575.5 565.6,564.5 Q 550.6,553.5 557.7,535.7 Z" fill="#f3d58d"/>
+  </g>
+  <ellipse cx="573.3" cy="540.1" rx="2.8" ry="3.3" fill="#1a1a1a"/>
+  <ellipse cx="591.3" cy="540.1" rx="2.8" ry="3.3" fill="#1a1a1a"/>
+  <path d="M 573.2,551.1 Q 582.3,564.2 591.4,551.1 Z" fill="#1a1a1a"/>
+  <circle cx="592" cy="552" r="31" fill="none" stroke="#59a136" stroke-width="2"/>
+  <text x="592" y="588" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">68</text>
+  <circle cx="660" cy="552" r="32" fill="#3e134a"/>
+  <g clip-path="url(#avatar-clip-light-all-69)">
+    <rect x="624.6" y="528.1" width="53.3" height="48.7" rx="13.4" fill="#5ed2c4"/>
+  </g>
+  <ellipse cx="642.2" cy="547.5" rx="2.8" ry="3.3" fill="#1a1a1a"/>
+  <ellipse cx="660.2" cy="547.5" rx="2.8" ry="3.3" fill="#1a1a1a"/>
+  <path d="M 642.1,558.5 Q 651.2,571.7 660.3,558.5 Z" fill="#1a1a1a"/>
+  <circle cx="660" cy="552" r="31" fill="none" stroke="#56a136" stroke-width="2"/>
+  <text x="660" y="588" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">69</text>
+  <circle cx="48" cy="636" r="32" fill="#875938"/>
+  <g clip-path="url(#avatar-clip-light-all-70)">
+    <path d="M 34.6,608.8 Q 55.3,606.1 69.2,620.6 Q 83.1,635.2 70.5,654 Q 57.8,672.9 39.5,662.7 Q 21.3,652.4 17.7,632 Q 14,611.5 34.6,608.8 Z" fill="#9690ee"/>
+  </g>
+  <ellipse cx="37.3" cy="629.9" rx="2.8" ry="3.4" fill="#1a1a1a"/>
+  <ellipse cx="54.1" cy="629.9" rx="2.8" ry="3.4" fill="#1a1a1a"/>
+  <path d="M 36.5,640.9 Q 45.7,654.2 54.9,640.9 Z" fill="#1a1a1a"/>
+  <circle cx="48" cy="636" r="31" fill="none" stroke="#54a136" stroke-width="2"/>
+  <text x="48" y="672" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">70</text>
+  <circle cx="116" cy="636" r="32" fill="#217923"/>
+  <g clip-path="url(#avatar-clip-light-all-71)">
+    <ellipse cx="120.6" cy="634.8" rx="27.6" ry="28.1" fill="#a780e9"/>
+  </g>
+  <ellipse cx="110.7" cy="629.8" rx="2.8" ry="3.4" fill="#1a1a1a"/>
+  <ellipse cx="130.5" cy="629.8" rx="2.8" ry="3.4" fill="#1a1a1a"/>
+  <path d="M 111.3,640.8 Q 120.6,654.2 129.9,640.8 Z" fill="#1a1a1a"/>
+  <circle cx="116" cy="636" r="31" fill="none" stroke="#51a136" stroke-width="2"/>
+  <text x="116" y="672" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">71</text>
+  <circle cx="184" cy="636" r="32" fill="#6c2c41"/>
+  <g clip-path="url(#avatar-clip-light-all-72)">
+    <ellipse cx="186.9" cy="633.6" rx="27.8" ry="25.6" fill="#91ddae"/>
+  </g>
+  <ellipse cx="178.5" cy="628.6" rx="2.8" ry="3.4" fill="#1a1a1a"/>
+  <ellipse cx="195.3" cy="628.6" rx="2.8" ry="3.4" fill="#1a1a1a"/>
+  <path d="M 177.6,639.6 Q 186.9,653.1 196.2,639.6 Z" fill="#1a1a1a"/>
+  <circle cx="184" cy="636" r="31" fill="none" stroke="#4fa136" stroke-width="2"/>
+  <text x="184" y="672" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">72</text>
+  <circle cx="252" cy="636" r="32" fill="#6e7f2f"/>
+  <g clip-path="url(#avatar-clip-light-all-73)">
+    <rect x="234.2" y="609.3" width="52.3" height="48.1" rx="7.8" fill="#f799d7"/>
+  </g>
+  <ellipse cx="251.8" cy="628.3" rx="2.8" ry="3.4" fill="#1a1a1a"/>
+  <ellipse cx="268.8" cy="628.3" rx="2.8" ry="3.4" fill="#1a1a1a"/>
+  <path d="M 250.9,639.3 Q 260.3,652.9 269.7,639.3 Z" fill="#1a1a1a"/>
+  <circle cx="252" cy="636" r="31" fill="none" stroke="#4ca136" stroke-width="2"/>
+  <text x="252" y="672" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">73</text>
+  <circle cx="320" cy="636" r="32" fill="#514b11"/>
+  <g clip-path="url(#avatar-clip-light-all-74)">
+    <ellipse cx="311.2" cy="633.6" rx="28.3" ry="23.8" fill="#af55e3"/>
+  </g>
+  <ellipse cx="302.4" cy="628.6" rx="2.8" ry="3.4" fill="#1a1a1a"/>
+  <ellipse cx="320" cy="628.6" rx="2.8" ry="3.4" fill="#1a1a1a"/>
+  <path d="M 301.8,639.6 Q 311.2,653.3 320.6,639.6 Z" fill="#1a1a1a"/>
+  <circle cx="320" cy="636" r="31" fill="none" stroke="#4aa136" stroke-width="2"/>
+  <text x="320" y="672" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">74</text>
+  <circle cx="388" cy="636" r="32" fill="#4caa16"/>
+  <g clip-path="url(#avatar-clip-light-all-75)">
+    <rect x="357.6" y="620.4" width="45.1" height="45.1" rx="2.3" transform="rotate(42.4 380.2 642.9)" fill="#7782e7"/>
+  </g>
+  <ellipse cx="371.3" cy="637.9" rx="2.8" ry="3.5" fill="#1a1a1a"/>
+  <ellipse cx="389.1" cy="637.9" rx="2.8" ry="3.5" fill="#1a1a1a"/>
+  <path d="M 370.7,648.9 Q 380.2,662.7 389.7,648.9 Z" fill="#1a1a1a"/>
+  <circle cx="388" cy="636" r="31" fill="none" stroke="#47a136" stroke-width="2"/>
+  <text x="388" y="672" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">75</text>
+  <circle cx="456" cy="636" r="32" fill="#3e0d68"/>
+  <g clip-path="url(#avatar-clip-light-all-76)">
+    <rect x="427.9" y="607.4" width="48.4" height="48.4" rx="2.5" transform="rotate(29.7 452.1 631.6)" fill="#a7e870"/>
+  </g>
+  <ellipse cx="443.7" cy="626.6" rx="2.8" ry="3.5" fill="#1a1a1a"/>
+  <ellipse cx="460.5" cy="626.6" rx="2.8" ry="3.5" fill="#1a1a1a"/>
+  <path d="M 442.5,637.6 Q 452.1,651.4 461.7,637.6 Z" fill="#1a1a1a"/>
+  <circle cx="456" cy="636" r="31" fill="none" stroke="#45a136" stroke-width="2"/>
+  <text x="456" y="672" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">76</text>
+  <circle cx="524" cy="636" r="32" fill="#255e0f"/>
+  <g clip-path="url(#avatar-clip-light-all-77)">
+    <rect x="504.2" y="607.6" width="45.1" height="45.6" rx="13.3" fill="#7955e1"/>
+  </g>
+  <ellipse cx="516.8" cy="625.4" rx="2.8" ry="3.5" fill="#1a1a1a"/>
+  <ellipse cx="536.8" cy="625.4" rx="2.8" ry="3.5" fill="#1a1a1a"/>
+  <path d="M 517.2,636.4 Q 526.8,650.3 536.4,636.4 Z" fill="#1a1a1a"/>
+  <circle cx="524" cy="636" r="31" fill="none" stroke="#42a136" stroke-width="2"/>
+  <text x="524" y="672" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">77</text>
+  <circle cx="592" cy="636" r="32" fill="#1b1178"/>
+  <g clip-path="url(#avatar-clip-light-all-78)">
+    <rect x="564.6" y="611.6" width="47.7" height="47.7" rx="3" transform="rotate(44.6 588.5 635.5)" fill="#f0d07e"/>
+  </g>
+  <ellipse cx="579.9" cy="630.5" rx="2.8" ry="3.5" fill="#1a1a1a"/>
+  <ellipse cx="597.1" cy="630.5" rx="2.8" ry="3.5" fill="#1a1a1a"/>
+  <path d="M 578.8,641.5 Q 588.5,655.5 598.2,641.5 Z" fill="#1a1a1a"/>
+  <circle cx="592" cy="636" r="31" fill="none" stroke="#40a136" stroke-width="2"/>
+  <text x="592" y="672" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">78</text>
+  <circle cx="660" cy="636" r="32" fill="#923517"/>
+  <g clip-path="url(#avatar-clip-light-all-79)">
+    <rect x="637.5" y="617.8" width="54.6" height="48.9" rx="9.6" fill="#69a9d9"/>
+  </g>
+  <ellipse cx="656.6" cy="637.3" rx="2.9" ry="3.5" fill="#1a1a1a"/>
+  <ellipse cx="673" cy="637.3" rx="2.9" ry="3.5" fill="#1a1a1a"/>
+  <path d="M 655.1,648.3 Q 664.8,662.4 674.5,648.3 Z" fill="#1a1a1a"/>
+  <circle cx="660" cy="636" r="31" fill="none" stroke="#3da136" stroke-width="2"/>
+  <text x="660" y="672" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">79</text>
+  <circle cx="48" cy="720" r="32" fill="#2c9a60"/>
+  <g clip-path="url(#avatar-clip-light-all-80)">
+    <rect x="23.4" y="700.4" width="53.1" height="53.1" rx="5.2" transform="rotate(54.1 50 726.9)" fill="#e98aae"/>
+  </g>
+  <ellipse cx="41.7" cy="721.9" rx="2.9" ry="3.6" fill="#1a1a1a"/>
+  <ellipse cx="58.3" cy="721.9" rx="2.9" ry="3.6" fill="#1a1a1a"/>
+  <path d="M 40.2,732.9 Q 50,747.1 59.8,732.9 Z" fill="#1a1a1a"/>
+  <circle cx="48" cy="720" r="31" fill="none" stroke="#3ba136" stroke-width="2"/>
+  <text x="48" y="756" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">80</text>
+  <circle cx="116" cy="720" r="32" fill="#162485"/>
+  <g clip-path="url(#avatar-clip-light-all-81)">
+    <rect x="88.2" y="698" width="47.1" height="44.3" rx="14.8" fill="#bae6ab"/>
+  </g>
+  <ellipse cx="101.7" cy="715.1" rx="2.9" ry="3.6" fill="#1a1a1a"/>
+  <ellipse cx="121.7" cy="715.1" rx="2.9" ry="3.6" fill="#1a1a1a"/>
+  <path d="M 101.8,726.1 Q 111.7,740.4 121.6,726.1 Z" fill="#1a1a1a"/>
+  <circle cx="116" cy="720" r="31" fill="none" stroke="#38a136" stroke-width="2"/>
+  <text x="116" y="756" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">81</text>
+  <circle cx="184" cy="720" r="32" fill="#421c13"/>
+  <g clip-path="url(#avatar-clip-light-all-82)">
+    <rect x="151.5" y="695.4" width="53.9" height="46.5" rx="9.8" fill="#99e4c3"/>
+  </g>
+  <ellipse cx="169.9" cy="713.6" rx="2.9" ry="3.6" fill="#1a1a1a"/>
+  <ellipse cx="186.9" cy="713.6" rx="2.9" ry="3.6" fill="#1a1a1a"/>
+  <path d="M 168.5,724.6 Q 178.4,739 188.3,724.6 Z" fill="#1a1a1a"/>
+  <circle cx="184" cy="720" r="31" fill="none" stroke="#36a136" stroke-width="2"/>
+  <text x="184" y="756" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">82</text>
+  <circle cx="252" cy="720" r="32" fill="#c11ba1"/>
+  <g clip-path="url(#avatar-clip-light-all-83)">
+    <rect x="225.6" y="703.6" width="55.4" height="46.1" rx="11" fill="#6bcbd4"/>
+  </g>
+  <ellipse cx="244.5" cy="721.6" rx="2.9" ry="3.6" fill="#1a1a1a"/>
+  <ellipse cx="262.1" cy="721.6" rx="2.9" ry="3.6" fill="#1a1a1a"/>
+  <path d="M 243.3,732.6 Q 253.3,747.1 263.3,732.6 Z" fill="#1a1a1a"/>
+  <circle cx="252" cy="720" r="31" fill="none" stroke="#36a138" stroke-width="2"/>
+  <text x="252" y="756" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">83</text>
+  <circle cx="320" cy="720" r="32" fill="#4e0932"/>
+  <g clip-path="url(#avatar-clip-light-all-84)">
+    <path d="M 346.7,708.3 Q 357.4,722.4 348.6,741.1 Q 339.8,759.7 321.3,750.4 Q 302.9,741.1 299.7,721.2 Q 296.5,701.3 316.3,697.8 Q 336.1,694.2 346.7,708.3 Z" fill="#acd54f"/>
+  </g>
+  <ellipse cx="318.6" cy="717.9" rx="2.9" ry="3.7" fill="#1a1a1a"/>
+  <ellipse cx="335.8" cy="717.9" rx="2.9" ry="3.7" fill="#1a1a1a"/>
+  <path d="M 317.2,728.9 Q 327.2,743.5 337.2,728.9 Z" fill="#1a1a1a"/>
+  <circle cx="320" cy="720" r="31" fill="none" stroke="#36a13a" stroke-width="2"/>
+  <text x="320" y="756" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">84</text>
+  <circle cx="388" cy="720" r="32" fill="#2e8b45"/>
+  <g clip-path="url(#avatar-clip-light-all-85)">
+    <rect x="357.8" y="694.4" width="45.3" height="49.3" rx="14" fill="#da9475"/>
+  </g>
+  <ellipse cx="371.4" cy="714" rx="2.9" ry="3.7" fill="#1a1a1a"/>
+  <ellipse cx="389.4" cy="714" rx="2.9" ry="3.7" fill="#1a1a1a"/>
+  <path d="M 370.3,725 Q 380.4,739.6 390.5,725 Z" fill="#1a1a1a"/>
+  <circle cx="388" cy="720" r="31" fill="none" stroke="#36a13d" stroke-width="2"/>
+  <text x="388" y="756" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">85</text>
+  <circle cx="456" cy="720" r="32" fill="#946c1a"/>
+  <g clip-path="url(#avatar-clip-light-all-86)">
+    <rect x="438.5" y="692.6" width="44.6" height="44.6" rx="5.4" transform="rotate(35.7 460.8 714.9)" fill="#8f64d5"/>
+  </g>
+  <ellipse cx="450.9" cy="709.9" rx="2.9" ry="3.7" fill="#1a1a1a"/>
+  <ellipse cx="470.7" cy="709.9" rx="2.9" ry="3.7" fill="#1a1a1a"/>
+  <path d="M 450.6,720.9 Q 460.8,735.6 471,720.9 Z" fill="#1a1a1a"/>
+  <circle cx="456" cy="720" r="31" fill="none" stroke="#36a13f" stroke-width="2"/>
+  <text x="456" y="756" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">86</text>
+  <circle cx="524" cy="720" r="32" fill="#4038a7"/>
+  <g clip-path="url(#avatar-clip-light-all-87)">
+    <rect x="506.2" y="693.1" width="44.1" height="44.1" rx="6.3" transform="rotate(43.5 528.3 715.1)" fill="#dc5058"/>
+  </g>
+  <ellipse cx="520" cy="710.1" rx="2.9" ry="3.7" fill="#1a1a1a"/>
+  <ellipse cx="536.6" cy="710.1" rx="2.9" ry="3.7" fill="#1a1a1a"/>
+  <path d="M 518.1,721.1 Q 528.3,735.9 538.5,721.1 Z" fill="#1a1a1a"/>
+  <circle cx="524" cy="720" r="31" fill="none" stroke="#36a142" stroke-width="2"/>
+  <text x="524" y="756" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">87</text>
+  <circle cx="592" cy="720" r="32" fill="#171e39"/>
+  <g clip-path="url(#avatar-clip-light-all-88)">
+    <rect x="567.7" y="701" width="45.6" height="45" rx="8.3" fill="#d6aa4b"/>
+  </g>
+  <ellipse cx="580.6" cy="718.5" rx="2.9" ry="3.7" fill="#1a1a1a"/>
+  <ellipse cx="600.4" cy="718.5" rx="2.9" ry="3.7" fill="#1a1a1a"/>
+  <path d="M 580.2,729.5 Q 590.5,744.4 600.8,729.5 Z" fill="#1a1a1a"/>
+  <circle cx="592" cy="720" r="31" fill="none" stroke="#36a144" stroke-width="2"/>
+  <text x="592" y="756" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">88</text>
+  <circle cx="660" cy="720" r="32" fill="#b38f29"/>
+  <g clip-path="url(#avatar-clip-light-all-89)">
+    <rect x="641.5" y="699.6" width="55.7" height="52.7" rx="6.6" fill="#70dcad"/>
+  </g>
+  <ellipse cx="659.5" cy="721" rx="2.9" ry="3.8" fill="#1a1a1a"/>
+  <ellipse cx="679.3" cy="721" rx="2.9" ry="3.8" fill="#1a1a1a"/>
+  <path d="M 659.1,732 Q 669.4,747 679.7,732 Z" fill="#1a1a1a"/>
+  <circle cx="660" cy="720" r="31" fill="none" stroke="#36a147" stroke-width="2"/>
+  <text x="660" y="756" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">89</text>
+  <circle cx="48" cy="804" r="32" fill="#491914"/>
+  <g clip-path="url(#avatar-clip-light-all-90)">
+    <rect x="27.1" y="776.9" width="53.3" height="53.3" rx="6.8" transform="rotate(42 53.7 803.5)" fill="#57e2b2"/>
+  </g>
+  <ellipse cx="45.2" cy="798.5" rx="2.9" ry="3.8" fill="#1a1a1a"/>
+  <ellipse cx="62.2" cy="798.5" rx="2.9" ry="3.8" fill="#1a1a1a"/>
+  <path d="M 43.3,809.5 Q 53.7,824.6 64.1,809.5 Z" fill="#1a1a1a"/>
+  <circle cx="48" cy="804" r="31" fill="none" stroke="#36a149" stroke-width="2"/>
+  <text x="48" y="840" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">90</text>
+  <circle cx="116" cy="804" r="32" fill="#8b3090"/>
+  <g clip-path="url(#avatar-clip-light-all-91)">
+    <ellipse cx="110.9" cy="799.1" rx="25" ry="26.3" fill="#7ad46b"/>
+  </g>
+  <ellipse cx="102.3" cy="794.1" rx="2.9" ry="3.8" fill="#1a1a1a"/>
+  <ellipse cx="119.5" cy="794.1" rx="2.9" ry="3.8" fill="#1a1a1a"/>
+  <path d="M 100.4,805.1 Q 110.9,820.3 121.4,805.1 Z" fill="#1a1a1a"/>
+  <circle cx="116" cy="804" r="31" fill="none" stroke="#36a14c" stroke-width="2"/>
+  <text x="116" y="840" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">91</text>
+  <circle cx="184" cy="804" r="32" fill="#3e2511"/>
+  <g clip-path="url(#avatar-clip-light-all-92)">
+    <path d="M 207.3,794.7 Q 204.7,814 187.1,822 Q 169.6,830 158.9,813.2 Q 148.2,796.3 158.7,778.5 Q 169.1,760.8 189.5,768 Q 209.8,775.3 207.3,794.7 Z" fill="#bb78e2"/>
+  </g>
+  <ellipse cx="170.8" cy="791.4" rx="2.9" ry="3.8" fill="#1a1a1a"/>
+  <ellipse cx="190.4" cy="791.4" rx="2.9" ry="3.8" fill="#1a1a1a"/>
+  <path d="M 170.1,802.4 Q 180.6,817.7 191.1,802.4 Z" fill="#1a1a1a"/>
+  <circle cx="184" cy="804" r="31" fill="none" stroke="#36a14e" stroke-width="2"/>
+  <text x="184" y="840" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">92</text>
+  <circle cx="252" cy="804" r="32" fill="#642b7e"/>
+  <g clip-path="url(#avatar-clip-light-all-93)">
+    <rect x="220.8" y="785.9" width="52.1" height="52.1" rx="2.8" transform="rotate(42.6 246.9 811.9)" fill="#82e661"/>
+  </g>
+  <ellipse cx="237.4" cy="806.9" rx="3" ry="3.9" fill="#1a1a1a"/>
+  <ellipse cx="256.4" cy="806.9" rx="3" ry="3.9" fill="#1a1a1a"/>
+  <path d="M 236.3,817.9 Q 246.9,833.3 257.5,817.9 Z" fill="#1a1a1a"/>
+  <circle cx="252" cy="804" r="31" fill="none" stroke="#36a151" stroke-width="2"/>
+  <text x="252" y="840" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">93</text>
+  <circle cx="320" cy="804" r="32" fill="#6424c1"/>
+  <g clip-path="url(#avatar-clip-light-all-94)">
+    <path d="M 284.9,803.6 Q 286.9,782.4 307.4,779.8 Q 328,777.1 338.5,794.4 Q 349,811.7 335.5,829.9 Q 321.9,848.1 302.4,836.5 Q 282.9,824.8 284.9,803.6 Z" fill="#e6c8af"/>
+  </g>
+  <ellipse cx="305.5" cy="802.5" rx="3" ry="3.9" fill="#1a1a1a"/>
+  <ellipse cx="322.3" cy="802.5" rx="3" ry="3.9" fill="#1a1a1a"/>
+  <path d="M 303.3,813.5 Q 313.9,829 324.5,813.5 Z" fill="#1a1a1a"/>
+  <circle cx="320" cy="804" r="31" fill="none" stroke="#36a153" stroke-width="2"/>
+  <text x="320" y="840" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">94</text>
+  <circle cx="388" cy="804" r="32" fill="#5c0d17"/>
+  <g clip-path="url(#avatar-clip-light-all-95)">
+    <ellipse cx="382.2" cy="805.8" rx="24.2" ry="21.1" fill="#aae8e1"/>
+  </g>
+  <ellipse cx="373.8" cy="800.8" rx="3" ry="3.9" fill="#1a1a1a"/>
+  <ellipse cx="390.6" cy="800.8" rx="3" ry="3.9" fill="#1a1a1a"/>
+  <path d="M 371.5,811.8 Q 382.2,827.3 392.9,811.8 Z" fill="#1a1a1a"/>
+  <circle cx="388" cy="804" r="31" fill="none" stroke="#36a156" stroke-width="2"/>
+  <text x="388" y="840" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">95</text>
+  <circle cx="456" cy="804" r="32" fill="#4a14a6"/>
+  <g clip-path="url(#avatar-clip-light-all-96)">
+    <ellipse cx="461.3" cy="799" rx="23.6" ry="25.7" fill="#94e778"/>
+  </g>
+  <ellipse cx="451.6" cy="794" rx="3" ry="3.9" fill="#1a1a1a"/>
+  <ellipse cx="471" cy="794" rx="3" ry="3.9" fill="#1a1a1a"/>
+  <path d="M 450.5,805 Q 461.3,820.6 472.1,805 Z" fill="#1a1a1a"/>
+  <circle cx="456" cy="804" r="31" fill="none" stroke="#36a158" stroke-width="2"/>
+  <text x="456" y="840" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">96</text>
+  <circle cx="524" cy="804" r="32" fill="#56100d"/>
+  <g clip-path="url(#avatar-clip-light-all-97)">
+    <ellipse cx="524.4" cy="812" rx="24.5" ry="26.8" fill="#86e1dc"/>
+  </g>
+  <ellipse cx="514.5" cy="807" rx="3" ry="3.9" fill="#1a1a1a"/>
+  <ellipse cx="534.3" cy="807" rx="3" ry="3.9" fill="#1a1a1a"/>
+  <path d="M 513.6,818 Q 524.4,833.7 535.2,818 Z" fill="#1a1a1a"/>
+  <circle cx="524" cy="804" r="31" fill="none" stroke="#36a15b" stroke-width="2"/>
+  <text x="524" y="840" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">97</text>
+  <circle cx="592" cy="804" r="32" fill="#221443"/>
+  <g clip-path="url(#avatar-clip-light-all-98)">
+    <path d="M 565.8,826.9 Q 555.7,814.6 558.4,799.3 Q 561.1,783.9 576.5,781 Q 591.8,778 601.5,788.7 Q 611.2,799.4 608.4,813.6 Q 605.5,827.7 590.7,833.5 Q 575.8,839.2 565.8,826.9 Z" fill="#5fe172"/>
+  </g>
+  <ellipse cx="575.2" cy="801.8" rx="3" ry="4" fill="#1a1a1a"/>
+  <ellipse cx="593.4" cy="801.8" rx="3" ry="4" fill="#1a1a1a"/>
+  <path d="M 573.4,812.8 Q 584.3,828.6 595.2,812.8 Z" fill="#1a1a1a"/>
+  <circle cx="592" cy="804" r="31" fill="none" stroke="#36a15d" stroke-width="2"/>
+  <text x="592" y="840" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">98</text>
+  <circle cx="660" cy="804" r="32" fill="#4f122e"/>
+  <g clip-path="url(#avatar-clip-light-all-99)">
+    <path d="M 681.2,816.8 Q 668.6,829.6 652.1,831.1 Q 635.6,832.7 625.7,817 Q 615.8,801.3 626.9,786.5 Q 638,771.7 654.7,773.7 Q 671.3,775.7 682.6,789.9 Q 693.9,804.1 681.2,816.8 Z" fill="#81d4f6"/>
+  </g>
+  <ellipse cx="644.6" cy="797.7" rx="3" ry="4" fill="#1a1a1a"/>
+  <ellipse cx="664.2" cy="797.7" rx="3" ry="4" fill="#1a1a1a"/>
+  <path d="M 643.5,808.7 Q 654.4,824.6 665.3,808.7 Z" fill="#1a1a1a"/>
+  <circle cx="660" cy="804" r="31" fill="none" stroke="#36a160" stroke-width="2"/>
+  <text x="660" y="840" fill="#9ca3af" font-size="12" font-weight="bold" font-family="'Segoe UI', Segoe, sans-serif" text-anchor="middle" dominant-baseline="hanging">99</text>
+</svg>

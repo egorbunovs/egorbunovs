@@ -1,0 +1,23 @@
+<svg width="500" height="168" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="avatar-clip-light">
+      <circle cx="250" cy="48" r="32"/>
+    </clipPath>
+    <clipPath id="bar-clip">
+      <rect x="16" y="124" width="468" height="12" rx="6" />
+    </clipPath>
+  </defs>
+  <rect width="500" height="168" fill="#ffffff" rx="8"/>
+  <rect x="0.5" y="0.5" width="499" height="167" rx="8" fill="none" stroke="#E5E7EB" stroke-width="1"/>
+  <circle cx="250" cy="48" r="32" fill="#551834"/>
+  <g clip-path="url(#avatar-clip-light)">
+    <rect x="213.8" y="22.9" width="54.9" height="54.9" rx="5.9" transform="rotate(42.8 241.2 50.4)" fill="#9ae696"/>
+  </g>
+  <ellipse cx="231.9" cy="45.4" rx="1.5" ry="1.5" fill="#1a1a1a"/>
+  <ellipse cx="250.5" cy="45.4" rx="1.5" ry="1.5" fill="#1a1a1a"/>
+  <line x1="236.2" y1="56.4" x2="246.2" y2="56.4" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="250" cy="48" r="31" fill="none" stroke="#a13e36" stroke-width="2"/>
+  <text x="250" y="92" fill="#24292f" font-size="16" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging" text-anchor="middle">Commits in last 30 days: <tspan font-weight="600">0</tspan></text>
+  <g clip-path="url(#bar-clip)">
+  </g>
+</svg>

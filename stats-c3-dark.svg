@@ -1,0 +1,49 @@
+<svg width="500" height="234" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="avatar-clip-dark">
+      <circle cx="250" cy="48" r="32"/>
+    </clipPath>
+    <clipPath id="bar-clip">
+      <rect x="16" y="124" width="468" height="12" rx="6" />
+    </clipPath>
+  </defs>
+  <rect width="500" height="234" fill="#0d1117" rx="8"/>
+  <circle cx="250" cy="48" r="32" fill="#7c3075"/>
+  <g clip-path="url(#avatar-clip-dark)">
+    <rect x="227.1" y="23.6" width="49.6" height="46.4" rx="6.3" fill="#57cde7"/>
+  </g>
+  <ellipse cx="242.6" cy="41.8" rx="3" ry="4" fill="#1a1a1a"/>
+  <ellipse cx="261.2" cy="41.8" rx="3" ry="4" fill="#1a1a1a"/>
+  <path d="M 240.9,52.8 Q 251.9,68.8 262.9,52.8 Z" fill="#1a1a1a"/>
+  <circle cx="250" cy="48" r="31" fill="none" stroke="#36a162" stroke-width="2"/>
+  <text x="250" y="92" fill="#ffffff" font-size="16" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging" text-anchor="middle">Commits in last 30 days: <tspan font-weight="600">1337</tspan></text>
+  <g clip-path="url(#bar-clip)">
+    <rect x="16.00" y="124" width="119.78" height="12" fill="#f1e05a" />
+    <rect x="137.78" y="124" width="95.82" height="12" fill="#e34c26" />
+    <rect x="235.60" y="124" width="62.38" height="12" fill="#563d7c" />
+    <rect x="299.98" y="124" width="47.91" height="12" fill="#b07219" />
+    <rect x="349.89" y="124" width="38.42" height="12" fill="#2b7489" />
+    <rect x="390.31" y="124" width="28.48" height="12" fill="#f34b7d" />
+    <rect x="420.79" y="124" width="23.96" height="12" fill="#701516" />
+    <rect x="446.74" y="124" width="18.98" height="12" fill="#3572A5" />
+    <rect x="467.73" y="124" width="16.72" height="12" fill="#438eff" />
+  </g>
+  <circle cx="21" cy="159" r="5" fill="#f1e05a" />
+  <text x="31" y="152" fill="#ffffff" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">Kotlin</tspan><tspan fill="#8b949e"> 26.5%</tspan></text>
+  <circle cx="177" cy="159" r="5" fill="#e34c26" />
+  <text x="187" y="152" fill="#ffffff" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">C#</tspan><tspan fill="#8b949e"> 21.2%</tspan></text>
+  <circle cx="333" cy="159" r="5" fill="#563d7c" />
+  <text x="343" y="152" fill="#ffffff" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">TypeScript</tspan><tspan fill="#8b949e"> 13.8%</tspan></text>
+  <circle cx="21" cy="181" r="5" fill="#b07219" />
+  <text x="31" y="174" fill="#ffffff" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">Python</tspan><tspan fill="#8b949e"> 10.6%</tspan></text>
+  <circle cx="177" cy="181" r="5" fill="#2b7489" />
+  <text x="187" y="174" fill="#ffffff" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">Java</tspan><tspan fill="#8b949e"> 8.5%</tspan></text>
+  <circle cx="333" cy="181" r="5" fill="#f34b7d" />
+  <text x="343" y="174" fill="#ffffff" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">Rust</tspan><tspan fill="#8b949e"> 6.3%</tspan></text>
+  <circle cx="21" cy="203" r="5" fill="#701516" />
+  <text x="31" y="196" fill="#ffffff" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">Go</tspan><tspan fill="#8b949e"> 5.3%</tspan></text>
+  <circle cx="177" cy="203" r="5" fill="#3572A5" />
+  <text x="187" y="196" fill="#ffffff" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">C++</tspan><tspan fill="#8b949e"> 4.2%</tspan></text>
+  <circle cx="333" cy="203" r="5" fill="#438eff" />
+  <text x="343" y="196" fill="#ffffff" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">Swift</tspan><tspan fill="#8b949e"> 3.7%</tspan></text>
+</svg>
