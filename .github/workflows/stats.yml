@@ -19,16 +19,24 @@ jobs:
         with:
           node-version: 20
 
+      - name: Install dependencies
+        run: npm install
+
       - name: Run script
         run: node generate.js
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
           USERNAME: egorbunovs
 
-      - name: Commit SVG
+      - name: Commit SVG if changed
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add stats.svg
-          git commit -m "update svg" || exit 0
-          git push
+          # Only commit if there are changes
+          if ! git diff --cached --quiet; then
+            git commit -m "update svg"
+            git push
+          else
+            echo "No changes to commit"
+          fi
