@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@octokit/graphql": "^7.0.2"
+  }
+}
