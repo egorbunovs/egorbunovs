@@ -23,9 +23,10 @@ async function fetchData() {
     query($username: String!, $from: DateTime!, $to: DateTime!) {
       user(login: $username) {
         contributionsCollection(from: $from, to: $to) {
-          totalCommitContributions
           commitContributionsByRepository(maxRepositories: 100) {
+            contributions { totalCount }
             repository {
+              nameWithOwner
               languages(first: 10) {
                 edges {
                   size
@@ -44,10 +45,14 @@ async function fetchData() {
   }
 
   const contributions = res.user.contributionsCollection;
-  const commitsLast30Days = contributions.totalCommitContributions || 0;
 
+  // Sum commits per repo, excluding the profile repo (where the bot pushes SVGs)
+  const profileRepo = `${username}/${username}`;
+  let commitsLast30Days = 0;
   const languageMap = {};
-  for (const { repository } of contributions.commitContributionsByRepository) {
+  for (const { repository, contributions: rc } of contributions.commitContributionsByRepository) {
+    if (repository.nameWithOwner === profileRepo) continue;
+    commitsLast30Days += rc.totalCount;
     if (!repository.languages) continue;
     for (const edge of repository.languages.edges) {
       const lang = edge.node.name;
