@@ -9,15 +9,15 @@
   </defs>
   <rect width="500" height="190" fill="#ffffff" rx="8"/>
   <rect x="0.5" y="0.5" width="499" height="189" rx="8" fill="none" stroke="#E5E7EB" stroke-width="1"/>
-  <circle cx="250" cy="48" r="32" fill="#80bf24"/>
+  <circle cx="250" cy="48" r="32" fill="#17a520"/>
   <g clip-path="url(#avatar-clip-light)">
-    <ellipse cx="249" cy="41.5" rx="24" ry="27.1" fill="#f34fde"/>
+    <path d="M 249.2,19.6 Q 271.2,12.2 284.1,30.5 Q 297,48.9 284,65.1 Q 271,81.4 251.7,76 Q 232.4,70.6 229.8,48.9 Q 227.2,27.1 249.2,19.6 Z" fill="#ef7adc"/>
   </g>
-  <ellipse cx="240.4" cy="36.5" rx="2.2" ry="2.2" fill="#1a1a1a"/>
-  <ellipse cx="257.6" cy="36.5" rx="2.2" ry="2.2" fill="#1a1a1a"/>
-  <path d="M 242.7,47.5 Q 249,51 255.3,47.5" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round"/>
-  <circle cx="250" cy="48" r="31" fill="none" stroke="#a17336" stroke-width="2"/>
-  <text x="250" y="92" fill="#24292f" font-size="16" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging" text-anchor="middle">Commits in last 30 days: <tspan font-weight="600">21</tspan></text>
+  <ellipse cx="251.5" cy="44.7" rx="2.1" ry="2.1" fill="#1a1a1a"/>
+  <ellipse cx="268.3" cy="44.7" rx="2.1" ry="2.1" fill="#1a1a1a"/>
+  <path d="M 253.8,55.7 Q 259.9,58.7 266,55.7" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="250" cy="48" r="31" fill="none" stroke="#a16b36" stroke-width="2"/>
+  <text x="250" y="92" fill="#24292f" font-size="16" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging" text-anchor="middle">Commits in last 30 days: <tspan font-weight="600">18</tspan></text>
   <g clip-path="url(#bar-clip)">
     <rect x="16.00" y="124" width="468.00" height="12" fill="#f1e05a" />
   </g>
