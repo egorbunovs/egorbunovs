@@ -8,28 +8,28 @@
     </clipPath>
   </defs>
   <rect width="500" height="234" fill="#0d1117" rx="8"/>
-  <circle cx="250" cy="48" r="32" fill="#3e9347"/>
+  <circle cx="250" cy="48" r="32" fill="#25ac74"/>
   <g clip-path="url(#avatar-clip-dark)">
-    <ellipse cx="259.7" cy="50.9" rx="21.7" ry="21.9" fill="#f178ed"/>
+    <rect x="223.8" y="21.6" width="44.3" height="44.3" rx="6.5" transform="rotate(29.6 245.9 43.8)" fill="#b778ea"/>
   </g>
-  <ellipse cx="250" cy="45.9" rx="2.5" ry="2.6" fill="#1a1a1a"/>
-  <ellipse cx="269.4" cy="45.9" rx="2.5" ry="2.6" fill="#1a1a1a"/>
-  <path d="M 252.6,56.9 Q 259.7,67.1 266.8,56.9 Z" fill="#1a1a1a"/>
-  <circle cx="250" cy="48" r="31" fill="none" stroke="#a19636" stroke-width="2"/>
-  <text x="250" y="92" fill="#ffffff" font-size="16" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging" text-anchor="middle">Commits in last 30 days: <tspan font-weight="600">35</tspan></text>
+  <ellipse cx="237.2" cy="38.8" rx="2.5" ry="2.6" fill="#1a1a1a"/>
+  <ellipse cx="254.6" cy="38.8" rx="2.5" ry="2.6" fill="#1a1a1a"/>
+  <path d="M 238.7,49.8 Q 245.9,60.1 253.1,49.8 Z" fill="#1a1a1a"/>
+  <circle cx="250" cy="48" r="31" fill="none" stroke="#a19b36" stroke-width="2"/>
+  <text x="250" y="92" fill="#ffffff" font-size="16" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging" text-anchor="middle">Commits in last 30 days: <tspan font-weight="600">37</tspan></text>
   <g clip-path="url(#bar-clip)">
-    <rect x="16.00" y="124" width="356.18" height="12" fill="#f1e05a" />
-    <rect x="374.18" y="124" width="34.80" height="12" fill="#e34c26" />
-    <rect x="410.98" y="124" width="25.76" height="12" fill="#563d7c" />
-    <rect x="438.74" y="124" width="13.56" height="12" fill="#b07219" />
-    <rect x="454.30" y="124" width="12.66" height="12" fill="#2b7489" />
-    <rect x="468.96" y="124" width="4.97" height="12" fill="#f34b7d" />
-    <rect x="475.93" y="124" width="2.26" height="12" fill="#701516" />
-    <rect x="480.19" y="124" width="0.90" height="12" fill="#3572A5" />
-    <rect x="483.10" y="124" width="0.90" height="12" fill="#438eff" />
+    <rect x="16.00" y="124" width="356.63" height="12" fill="#f1e05a" />
+    <rect x="374.63" y="124" width="34.80" height="12" fill="#e34c26" />
+    <rect x="411.43" y="124" width="25.76" height="12" fill="#563d7c" />
+    <rect x="439.20" y="124" width="13.56" height="12" fill="#b07219" />
+    <rect x="454.76" y="124" width="12.66" height="12" fill="#2b7489" />
+    <rect x="469.41" y="124" width="4.97" height="12" fill="#f34b7d" />
+    <rect x="476.38" y="124" width="2.26" height="12" fill="#701516" />
+    <rect x="480.64" y="124" width="0.90" height="12" fill="#3572A5" />
+    <rect x="483.55" y="124" width="0.45" height="12" fill="#438eff" />
   </g>
   <circle cx="21" cy="159" r="5" fill="#f1e05a" />
-  <text x="31" y="152" fill="#ffffff" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">Kotlin</tspan><tspan fill="#8b949e"> 78.8%</tspan></text>
+  <text x="31" y="152" fill="#ffffff" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">Kotlin</tspan><tspan fill="#8b949e"> 78.9%</tspan></text>
   <circle cx="177" cy="159" r="5" fill="#e34c26" />
   <text x="187" y="152" fill="#ffffff" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">C#</tspan><tspan fill="#8b949e"> 7.7%</tspan></text>
   <circle cx="333" cy="159" r="5" fill="#563d7c" />
@@ -45,5 +45,5 @@
   <circle cx="177" cy="203" r="5" fill="#3572A5" />
   <text x="187" y="196" fill="#ffffff" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">C</tspan><tspan fill="#8b949e"> 0.2%</tspan></text>
   <circle cx="333" cy="203" r="5" fill="#438eff" />
-  <text x="343" y="196" fill="#ffffff" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">Batchfile</tspan><tspan fill="#8b949e"> 0.2%</tspan></text>
+  <text x="343" y="196" fill="#ffffff" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">Batchfile</tspan><tspan fill="#8b949e"> 0.1%</tspan></text>
 </svg>
