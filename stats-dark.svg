@@ -18,8 +18,8 @@
   <circle cx="250" cy="48" r="31" fill="none" stroke="#a19836" stroke-width="2"/>
   <text x="250" y="92" fill="#ffffff" font-size="16" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging" text-anchor="middle">Commits in last 30 days: <tspan font-weight="600">36</tspan></text>
   <g clip-path="url(#bar-clip)">
-    <rect x="16.00" y="124" width="356.63" height="12" fill="#f1e05a" />
-    <rect x="374.63" y="124" width="34.80" height="12" fill="#e34c26" />
+    <rect x="16.00" y="124" width="357.08" height="12" fill="#f1e05a" />
+    <rect x="375.08" y="124" width="34.35" height="12" fill="#e34c26" />
     <rect x="411.43" y="124" width="25.76" height="12" fill="#563d7c" />
     <rect x="439.20" y="124" width="13.56" height="12" fill="#b07219" />
     <rect x="454.76" y="124" width="12.66" height="12" fill="#2b7489" />
@@ -29,9 +29,9 @@
     <rect x="483.55" y="124" width="0.45" height="12" fill="#438eff" />
   </g>
   <circle cx="21" cy="159" r="5" fill="#f1e05a" />
-  <text x="31" y="152" fill="#ffffff" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">Kotlin</tspan><tspan fill="#8b949e"> 78.9%</tspan></text>
+  <text x="31" y="152" fill="#ffffff" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">Kotlin</tspan><tspan fill="#8b949e"> 79.0%</tspan></text>
   <circle cx="177" cy="159" r="5" fill="#e34c26" />
-  <text x="187" y="152" fill="#ffffff" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">C#</tspan><tspan fill="#8b949e"> 7.7%</tspan></text>
+  <text x="187" y="152" fill="#ffffff" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">C#</tspan><tspan fill="#8b949e"> 7.6%</tspan></text>
   <circle cx="333" cy="159" r="5" fill="#563d7c" />
   <text x="343" y="152" fill="#ffffff" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">JavaScript</tspan><tspan fill="#8b949e"> 5.7%</tspan></text>
   <circle cx="21" cy="181" r="5" fill="#b07219" />
