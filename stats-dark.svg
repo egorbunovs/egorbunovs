@@ -8,15 +8,15 @@
     </clipPath>
   </defs>
   <rect width="500" height="234" fill="#0d1117" rx="8"/>
-  <circle cx="250" cy="48" r="32" fill="#1d4d37"/>
+  <circle cx="250" cy="48" r="32" fill="#653312"/>
   <g clip-path="url(#avatar-clip-dark)">
-    <rect x="219.9" y="23.4" width="54" height="54" rx="2.5" transform="rotate(53.4 246.9 50.4)" fill="#d57b57"/>
+    <rect x="231.4" y="21.4" width="51.9" height="51.9" rx="2.3" transform="rotate(26.8 257.4 47.4)" fill="#a5caeb"/>
   </g>
-  <ellipse cx="238.3" cy="45.4" rx="2.6" ry="2.9" fill="#1a1a1a"/>
-  <ellipse cx="255.5" cy="45.4" rx="2.6" ry="2.9" fill="#1a1a1a"/>
-  <path d="M 239,56.4 Q 246.9,67.7 254.8,56.4 Z" fill="#1a1a1a"/>
-  <circle cx="250" cy="48" r="31" fill="none" stroke="#8ba136" stroke-width="2"/>
-  <text x="250" y="92" fill="#ffffff" font-size="16" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging" text-anchor="middle">Commits in last 30 days: <tspan font-weight="600">48</tspan></text>
+  <ellipse cx="247.6" cy="42.4" rx="2.6" ry="2.8" fill="#1a1a1a"/>
+  <ellipse cx="267.2" cy="42.4" rx="2.6" ry="2.8" fill="#1a1a1a"/>
+  <path d="M 249.7,53.4 Q 257.4,64.5 265.1,53.4 Z" fill="#1a1a1a"/>
+  <circle cx="250" cy="48" r="31" fill="none" stroke="#92a136" stroke-width="2"/>
+  <text x="250" y="92" fill="#ffffff" font-size="16" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging" text-anchor="middle">Commits in last 30 days: <tspan font-weight="600">45</tspan></text>
   <g clip-path="url(#bar-clip)">
     <rect x="16.00" y="124" width="413.13" height="12" fill="#f1e05a" />
     <rect x="431.13" y="124" width="16.72" height="12" fill="#e34c26" />
