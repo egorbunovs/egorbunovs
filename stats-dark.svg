@@ -8,28 +8,28 @@
     </clipPath>
   </defs>
   <rect width="500" height="234" fill="#0d1117" rx="8"/>
-  <circle cx="250" cy="48" r="32" fill="#653312"/>
+  <circle cx="250" cy="48" r="32" fill="#128d7f"/>
   <g clip-path="url(#avatar-clip-dark)">
-    <rect x="231.4" y="21.4" width="51.9" height="51.9" rx="2.3" transform="rotate(26.8 257.4 47.4)" fill="#a5caeb"/>
+    <rect x="233.8" y="14.4" width="47.1" height="54.2" rx="6.3" fill="#dfa897"/>
   </g>
-  <ellipse cx="247.6" cy="42.4" rx="2.6" ry="2.8" fill="#1a1a1a"/>
-  <ellipse cx="267.2" cy="42.4" rx="2.6" ry="2.8" fill="#1a1a1a"/>
-  <path d="M 249.7,53.4 Q 257.4,64.5 265.1,53.4 Z" fill="#1a1a1a"/>
-  <circle cx="250" cy="48" r="31" fill="none" stroke="#92a136" stroke-width="2"/>
-  <text x="250" y="92" fill="#ffffff" font-size="16" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging" text-anchor="middle">Commits in last 30 days: <tspan font-weight="600">45</tspan></text>
+  <ellipse cx="247.5" cy="36.5" rx="2.6" ry="2.8" fill="#1a1a1a"/>
+  <ellipse cx="267.3" cy="36.5" rx="2.6" ry="2.8" fill="#1a1a1a"/>
+  <path d="M 249.6,47.5 Q 257.4,58.6 265.2,47.5 Z" fill="#1a1a1a"/>
+  <circle cx="250" cy="48" r="31" fill="none" stroke="#90a136" stroke-width="2"/>
+  <text x="250" y="92" fill="#ffffff" font-size="16" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging" text-anchor="middle">Commits in last 30 days: <tspan font-weight="600">46</tspan></text>
   <g clip-path="url(#bar-clip)">
-    <rect x="16.00" y="124" width="414.94" height="12" fill="#f1e05a" />
-    <rect x="432.94" y="124" width="15.82" height="12" fill="#e34c26" />
-    <rect x="450.76" y="124" width="9.94" height="12" fill="#563d7c" />
-    <rect x="462.70" y="124" width="6.33" height="12" fill="#b07219" />
-    <rect x="471.03" y="124" width="1.81" height="12" fill="#2b7489" />
-    <rect x="474.84" y="124" width="1.81" height="12" fill="#f34b7d" />
+    <rect x="16.00" y="124" width="415.39" height="12" fill="#f1e05a" />
+    <rect x="433.39" y="124" width="15.82" height="12" fill="#e34c26" />
+    <rect x="451.21" y="124" width="9.94" height="12" fill="#563d7c" />
+    <rect x="463.15" y="124" width="6.33" height="12" fill="#b07219" />
+    <rect x="471.48" y="124" width="1.81" height="12" fill="#2b7489" />
+    <rect x="475.29" y="124" width="1.36" height="12" fill="#f34b7d" />
     <rect x="478.64" y="124" width="0.45" height="12" fill="#701516" />
     <rect x="481.10" y="124" width="0.45" height="12" fill="#3572A5" />
     <rect x="483.55" y="124" width="0.45" height="12" fill="#438eff" />
   </g>
   <circle cx="21" cy="159" r="5" fill="#f1e05a" />
-  <text x="31" y="152" fill="#ffffff" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">Kotlin</tspan><tspan fill="#8b949e"> 91.8%</tspan></text>
+  <text x="31" y="152" fill="#ffffff" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">Kotlin</tspan><tspan fill="#8b949e"> 91.9%</tspan></text>
   <circle cx="177" cy="159" r="5" fill="#e34c26" />
   <text x="187" y="152" fill="#ffffff" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">HTML</tspan><tspan fill="#8b949e"> 3.5%</tspan></text>
   <circle cx="333" cy="159" r="5" fill="#563d7c" />
@@ -39,7 +39,7 @@
   <circle cx="177" cy="181" r="5" fill="#2b7489" />
   <text x="187" y="174" fill="#ffffff" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">C++</tspan><tspan fill="#8b949e"> 0.4%</tspan></text>
   <circle cx="333" cy="181" r="5" fill="#f34b7d" />
-  <text x="343" y="174" fill="#ffffff" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">Python</tspan><tspan fill="#8b949e"> 0.4%</tspan></text>
+  <text x="343" y="174" fill="#ffffff" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">Python</tspan><tspan fill="#8b949e"> 0.3%</tspan></text>
   <circle cx="21" cy="203" r="5" fill="#701516" />
   <text x="31" y="196" fill="#ffffff" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">PowerShell</tspan><tspan fill="#8b949e"> 0.1%</tspan></text>
   <circle cx="177" cy="203" r="5" fill="#3572A5" />
