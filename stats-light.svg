@@ -9,18 +9,18 @@
   </defs>
   <rect width="500" height="234" fill="#ffffff" rx="8"/>
   <rect x="0.5" y="0.5" width="499" height="233" rx="8" fill="none" stroke="#E5E7EB" stroke-width="1"/>
-  <circle cx="250" cy="48" r="32" fill="#128d7f"/>
+  <circle cx="250" cy="48" r="32" fill="#60167b"/>
   <g clip-path="url(#avatar-clip-light)">
-    <rect x="233.8" y="14.4" width="47.1" height="54.2" rx="6.3" fill="#dfa897"/>
+    <path d="M 226.8,71.9 Q 211.3,59.3 218.2,41.1 Q 225.2,22.9 242,18.5 Q 258.9,14.1 270,26.2 Q 281,38.3 277.9,54 Q 274.9,69.6 258.6,77.1 Q 242.4,84.6 226.8,71.9 Z" fill="#dde2a6"/>
   </g>
-  <ellipse cx="247.5" cy="36.5" rx="2.6" ry="2.8" fill="#1a1a1a"/>
-  <ellipse cx="267.3" cy="36.5" rx="2.6" ry="2.8" fill="#1a1a1a"/>
-  <path d="M 249.6,47.5 Q 257.4,58.6 265.2,47.5 Z" fill="#1a1a1a"/>
-  <circle cx="250" cy="48" r="31" fill="none" stroke="#90a136" stroke-width="2"/>
-  <text x="250" y="92" fill="#24292f" font-size="16" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging" text-anchor="middle">Commits in last 30 days: <tspan font-weight="600">46</tspan></text>
+  <ellipse cx="242" cy="42.3" rx="2.6" ry="2.9" fill="#1a1a1a"/>
+  <ellipse cx="260.2" cy="42.3" rx="2.6" ry="2.9" fill="#1a1a1a"/>
+  <path d="M 243.3,53.3 Q 251.1,64.5 258.9,53.3 Z" fill="#1a1a1a"/>
+  <circle cx="250" cy="48" r="31" fill="none" stroke="#8da136" stroke-width="2"/>
+  <text x="250" y="92" fill="#24292f" font-size="16" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging" text-anchor="middle">Commits in last 30 days: <tspan font-weight="600">47</tspan></text>
   <g clip-path="url(#bar-clip)">
-    <rect x="16.00" y="124" width="415.39" height="12" fill="#f1e05a" />
-    <rect x="433.39" y="124" width="15.82" height="12" fill="#e34c26" />
+    <rect x="16.00" y="124" width="415.84" height="12" fill="#f1e05a" />
+    <rect x="433.84" y="124" width="15.37" height="12" fill="#e34c26" />
     <rect x="451.21" y="124" width="9.94" height="12" fill="#563d7c" />
     <rect x="463.15" y="124" width="6.33" height="12" fill="#b07219" />
     <rect x="471.48" y="124" width="1.81" height="12" fill="#2b7489" />
@@ -30,9 +30,9 @@
     <rect x="483.55" y="124" width="0.45" height="12" fill="#438eff" />
   </g>
   <circle cx="21" cy="159" r="5" fill="#f1e05a" />
-  <text x="31" y="152" fill="#24292f" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">Kotlin</tspan><tspan fill="#6e7681"> 91.9%</tspan></text>
+  <text x="31" y="152" fill="#24292f" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">Kotlin</tspan><tspan fill="#6e7681"> 92.0%</tspan></text>
   <circle cx="177" cy="159" r="5" fill="#e34c26" />
-  <text x="187" y="152" fill="#24292f" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">HTML</tspan><tspan fill="#6e7681"> 3.5%</tspan></text>
+  <text x="187" y="152" fill="#24292f" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">HTML</tspan><tspan fill="#6e7681"> 3.4%</tspan></text>
   <circle cx="333" cy="159" r="5" fill="#563d7c" />
   <text x="343" y="152" fill="#24292f" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">JavaScript</tspan><tspan fill="#6e7681"> 2.2%</tspan></text>
   <circle cx="21" cy="181" r="5" fill="#b07219" />
@@ -42,9 +42,9 @@
   <circle cx="333" cy="181" r="5" fill="#f34b7d" />
   <text x="343" y="174" fill="#24292f" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">Python</tspan><tspan fill="#6e7681"> 0.3%</tspan></text>
   <circle cx="21" cy="203" r="5" fill="#701516" />
-  <text x="31" y="196" fill="#24292f" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">PowerShell</tspan><tspan fill="#6e7681"> 0.1%</tspan></text>
+  <text x="31" y="196" fill="#24292f" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">Batchfile</tspan><tspan fill="#6e7681"> 0.1%</tspan></text>
   <circle cx="177" cy="203" r="5" fill="#3572A5" />
-  <text x="187" y="196" fill="#24292f" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">C</tspan><tspan fill="#6e7681"> 0.1%</tspan></text>
+  <text x="187" y="196" fill="#24292f" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">PowerShell</tspan><tspan fill="#6e7681"> 0.1%</tspan></text>
   <circle cx="333" cy="203" r="5" fill="#438eff" />
-  <text x="343" y="196" fill="#24292f" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">Batchfile</tspan><tspan fill="#6e7681"> 0.1%</tspan></text>
+  <text x="343" y="196" fill="#24292f" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">C</tspan><tspan fill="#6e7681"> 0.1%</tspan></text>
 </svg>
