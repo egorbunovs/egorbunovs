@@ -8,18 +8,18 @@
     </clipPath>
   </defs>
   <rect width="500" height="234" fill="#0d1117" rx="8"/>
-  <circle cx="250" cy="48" r="32" fill="#34461c"/>
+  <circle cx="250" cy="48" r="32" fill="#682269"/>
   <g clip-path="url(#avatar-clip-dark)">
-    <ellipse cx="243.6" cy="54.8" rx="20" ry="29.8" fill="#de8feb"/>
+    <ellipse cx="242.7" cy="54.5" rx="24.1" ry="24.8" fill="#daf69b"/>
   </g>
-  <ellipse cx="235" cy="49.8" rx="2.6" ry="3" fill="#1a1a1a"/>
-  <ellipse cx="252.2" cy="49.8" rx="2.6" ry="3" fill="#1a1a1a"/>
-  <path d="M 235.5,60.8 Q 243.6,72.4 251.7,60.8 Z" fill="#1a1a1a"/>
-  <circle cx="250" cy="48" r="31" fill="none" stroke="#83a136" stroke-width="2"/>
-  <text x="250" y="92" fill="#ffffff" font-size="16" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging" text-anchor="middle">Commits in last 30 days: <tspan font-weight="600">51</tspan></text>
+  <ellipse cx="233.2" cy="49.5" rx="2.7" ry="3" fill="#1a1a1a"/>
+  <ellipse cx="252.2" cy="49.5" rx="2.7" ry="3" fill="#1a1a1a"/>
+  <path d="M 234.6,60.5 Q 242.7,72.2 250.8,60.5 Z" fill="#1a1a1a"/>
+  <circle cx="250" cy="48" r="31" fill="none" stroke="#81a136" stroke-width="2"/>
+  <text x="250" y="92" fill="#ffffff" font-size="16" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging" text-anchor="middle">Commits in last 30 days: <tspan font-weight="600">52</tspan></text>
   <g clip-path="url(#bar-clip)">
-    <rect x="16.00" y="124" width="419.46" height="12" fill="#f1e05a" />
-    <rect x="437.46" y="124" width="13.56" height="12" fill="#e34c26" />
+    <rect x="16.00" y="124" width="419.91" height="12" fill="#f1e05a" />
+    <rect x="437.91" y="124" width="13.11" height="12" fill="#e34c26" />
     <rect x="453.02" y="124" width="8.59" height="12" fill="#563d7c" />
     <rect x="463.60" y="124" width="5.42" height="12" fill="#b07219" />
     <rect x="471.03" y="124" width="2.26" height="12" fill="#2b7489" />
@@ -29,9 +29,9 @@
     <rect x="484.00" y="124" width="0.00" height="12" fill="#438eff" />
   </g>
   <circle cx="21" cy="159" r="5" fill="#f1e05a" />
-  <text x="31" y="152" fill="#ffffff" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">Kotlin</tspan><tspan fill="#8b949e"> 92.8%</tspan></text>
+  <text x="31" y="152" fill="#ffffff" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">Kotlin</tspan><tspan fill="#8b949e"> 92.9%</tspan></text>
   <circle cx="177" cy="159" r="5" fill="#e34c26" />
-  <text x="187" y="152" fill="#ffffff" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">HTML</tspan><tspan fill="#8b949e"> 3.0%</tspan></text>
+  <text x="187" y="152" fill="#ffffff" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">HTML</tspan><tspan fill="#8b949e"> 2.9%</tspan></text>
   <circle cx="333" cy="159" r="5" fill="#563d7c" />
   <text x="343" y="152" fill="#ffffff" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">JavaScript</tspan><tspan fill="#8b949e"> 1.9%</tspan></text>
   <circle cx="21" cy="181" r="5" fill="#b07219" />
