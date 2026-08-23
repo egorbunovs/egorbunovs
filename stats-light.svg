@@ -9,19 +9,19 @@
   </defs>
   <rect width="500" height="234" fill="#ffffff" rx="8"/>
   <rect x="0.5" y="0.5" width="499" height="233" rx="8" fill="none" stroke="#E5E7EB" stroke-width="1"/>
-  <circle cx="250" cy="48" r="32" fill="#1b6218"/>
+  <circle cx="250" cy="48" r="32" fill="#18168f"/>
   <g clip-path="url(#avatar-clip-light)">
-    <path d="M 248.5,65.9 Q 231.8,58.9 234.4,41.6 Q 237.1,24.4 253.4,20.5 Q 269.6,16.6 280.6,31.2 Q 291.5,45.8 278.4,59.3 Q 265.3,72.9 248.5,65.9 Z" fill="#ee3d97"/>
+    <rect x="229.5" y="23.8" width="55.2" height="47.7" rx="13.1" fill="#d4924a"/>
   </g>
-  <ellipse cx="249" cy="37.9" rx="2.7" ry="3.1" fill="#1a1a1a"/>
-  <ellipse cx="267.8" cy="37.9" rx="2.7" ry="3.1" fill="#1a1a1a"/>
-  <path d="M 250,48.9 Q 258.4,61 266.8,48.9 Z" fill="#1a1a1a"/>
-  <circle cx="250" cy="48" r="31" fill="none" stroke="#74a136" stroke-width="2"/>
-  <text x="250" y="92" fill="#24292f" font-size="16" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging" text-anchor="middle">Commits in last 30 days: <tspan font-weight="600">57</tspan></text>
+  <ellipse cx="249" cy="42.6" rx="2.7" ry="3.1" fill="#1a1a1a"/>
+  <ellipse cx="265.2" cy="42.6" rx="2.7" ry="3.1" fill="#1a1a1a"/>
+  <path d="M 248.6,53.6 Q 257.1,65.9 265.6,53.6 Z" fill="#1a1a1a"/>
+  <circle cx="250" cy="48" r="31" fill="none" stroke="#6fa136" stroke-width="2"/>
+  <text x="250" y="92" fill="#24292f" font-size="16" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging" text-anchor="middle">Commits in last 30 days: <tspan font-weight="600">59</tspan></text>
   <g clip-path="url(#bar-clip)">
-    <rect x="16.00" y="124" width="423.07" height="12" fill="#f1e05a" />
-    <rect x="441.07" y="124" width="11.75" height="12" fill="#e34c26" />
-    <rect x="454.82" y="124" width="7.68" height="12" fill="#563d7c" />
+    <rect x="16.00" y="124" width="423.98" height="12" fill="#f1e05a" />
+    <rect x="441.98" y="124" width="11.30" height="12" fill="#e34c26" />
+    <rect x="455.28" y="124" width="7.23" height="12" fill="#563d7c" />
     <rect x="464.51" y="124" width="4.97" height="12" fill="#b07219" />
     <rect x="471.48" y="124" width="2.26" height="12" fill="#2b7489" />
     <rect x="475.74" y="124" width="1.36" height="12" fill="#f34b7d" />
@@ -30,11 +30,11 @@
     <rect x="484.00" y="124" width="0.00" height="12" fill="#438eff" />
   </g>
   <circle cx="21" cy="159" r="5" fill="#f1e05a" />
-  <text x="31" y="152" fill="#24292f" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">Kotlin</tspan><tspan fill="#6e7681"> 93.6%</tspan></text>
+  <text x="31" y="152" fill="#24292f" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">Kotlin</tspan><tspan fill="#6e7681"> 93.8%</tspan></text>
   <circle cx="177" cy="159" r="5" fill="#e34c26" />
-  <text x="187" y="152" fill="#24292f" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">HTML</tspan><tspan fill="#6e7681"> 2.6%</tspan></text>
+  <text x="187" y="152" fill="#24292f" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">HTML</tspan><tspan fill="#6e7681"> 2.5%</tspan></text>
   <circle cx="333" cy="159" r="5" fill="#563d7c" />
-  <text x="343" y="152" fill="#24292f" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">JavaScript</tspan><tspan fill="#6e7681"> 1.7%</tspan></text>
+  <text x="343" y="152" fill="#24292f" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">JavaScript</tspan><tspan fill="#6e7681"> 1.6%</tspan></text>
   <circle cx="21" cy="181" r="5" fill="#b07219" />
   <text x="31" y="174" fill="#24292f" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">CSS</tspan><tspan fill="#6e7681"> 1.1%</tspan></text>
   <circle cx="177" cy="181" r="5" fill="#2b7489" />
