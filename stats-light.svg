@@ -17,20 +17,20 @@
   <ellipse cx="261.2" cy="41.8" rx="3" ry="4" fill="#1a1a1a"/>
   <path d="M 240.9,52.8 Q 251.9,68.8 262.9,52.8 Z" fill="#1a1a1a"/>
   <circle cx="250" cy="48" r="31" fill="none" stroke="#36a162" stroke-width="2"/>
-  <text x="250" y="92" fill="#24292f" font-size="16" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging" text-anchor="middle">Commits in last 30 days: <tspan font-weight="600">214</tspan></text>
+  <text x="250" y="92" fill="#24292f" font-size="16" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging" text-anchor="middle">Commits in last 30 days: <tspan font-weight="600">218</tspan></text>
   <g clip-path="url(#bar-clip)">
-    <rect x="16.00" y="124" width="336.29" height="12" fill="#f1e05a" />
-    <rect x="354.29" y="124" width="43.39" height="12" fill="#e34c26" />
-    <rect x="399.68" y="124" width="23.50" height="12" fill="#563d7c" />
-    <rect x="425.18" y="124" width="17.18" height="12" fill="#b07219" />
-    <rect x="444.36" y="124" width="12.20" height="12" fill="#2b7489" />
-    <rect x="458.56" y="124" width="9.49" height="12" fill="#f34b7d" />
-    <rect x="470.06" y="124" width="4.52" height="12" fill="#701516" />
+    <rect x="16.00" y="124" width="335.84" height="12" fill="#f1e05a" />
+    <rect x="353.84" y="124" width="43.39" height="12" fill="#e34c26" />
+    <rect x="399.23" y="124" width="23.50" height="12" fill="#563d7c" />
+    <rect x="424.73" y="124" width="17.18" height="12" fill="#b07219" />
+    <rect x="443.91" y="124" width="12.20" height="12" fill="#2b7489" />
+    <rect x="458.11" y="124" width="9.49" height="12" fill="#f34b7d" />
+    <rect x="469.60" y="124" width="4.97" height="12" fill="#701516" />
     <rect x="476.58" y="124" width="3.62" height="12" fill="#3572A5" />
     <rect x="482.19" y="124" width="1.36" height="12" fill="#438eff" />
   </g>
   <circle cx="21" cy="159" r="5" fill="#f1e05a" />
-  <text x="31" y="152" fill="#24292f" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">Kotlin</tspan><tspan fill="#6e7681"> 74.4%</tspan></text>
+  <text x="31" y="152" fill="#24292f" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">Kotlin</tspan><tspan fill="#6e7681"> 74.3%</tspan></text>
   <circle cx="177" cy="159" r="5" fill="#e34c26" />
   <text x="187" y="152" fill="#24292f" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">CSS</tspan><tspan fill="#6e7681"> 9.6%</tspan></text>
   <circle cx="333" cy="159" r="5" fill="#563d7c" />
@@ -42,7 +42,7 @@
   <circle cx="333" cy="181" r="5" fill="#f34b7d" />
   <text x="343" y="174" fill="#24292f" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">PHP</tspan><tspan fill="#6e7681"> 2.1%</tspan></text>
   <circle cx="21" cy="203" r="5" fill="#701516" />
-  <text x="31" y="196" fill="#24292f" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">Python</tspan><tspan fill="#6e7681"> 1.0%</tspan></text>
+  <text x="31" y="196" fill="#24292f" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">Python</tspan><tspan fill="#6e7681"> 1.1%</tspan></text>
   <circle cx="177" cy="203" r="5" fill="#3572A5" />
   <text x="187" y="196" fill="#24292f" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">ShaderLab</tspan><tspan fill="#6e7681"> 0.8%</tspan></text>
   <circle cx="333" cy="203" r="5" fill="#438eff" />
