@@ -16,10 +16,10 @@
   <ellipse cx="261.2" cy="41.8" rx="3" ry="4" fill="#1a1a1a"/>
   <path d="M 240.9,52.8 Q 251.9,68.8 262.9,52.8 Z" fill="#1a1a1a"/>
   <circle cx="250" cy="48" r="31" fill="none" stroke="#36a162" stroke-width="2"/>
-  <text x="250" y="92" fill="#ffffff" font-size="16" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging" text-anchor="middle">Commits in last 30 days: <tspan font-weight="600">220</tspan></text>
+  <text x="250" y="92" fill="#ffffff" font-size="16" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging" text-anchor="middle">Commits in last 30 days: <tspan font-weight="600">219</tspan></text>
   <g clip-path="url(#bar-clip)">
-    <rect x="16.00" y="124" width="316.40" height="12" fill="#f1e05a" />
-    <rect x="334.40" y="124" width="41.13" height="12" fill="#e34c26" />
+    <rect x="16.00" y="124" width="316.85" height="12" fill="#f1e05a" />
+    <rect x="334.85" y="124" width="40.68" height="12" fill="#e34c26" />
     <rect x="377.53" y="124" width="36.61" height="12" fill="#563d7c" />
     <rect x="416.14" y="124" width="21.24" height="12" fill="#b07219" />
     <rect x="439.39" y="124" width="14.46" height="12" fill="#2b7489" />
@@ -29,9 +29,9 @@
     <rect x="482.19" y="124" width="1.36" height="12" fill="#438eff" />
   </g>
   <circle cx="21" cy="159" r="5" fill="#f1e05a" />
-  <text x="31" y="152" fill="#ffffff" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">Kotlin</tspan><tspan fill="#8b949e"> 70.0%</tspan></text>
+  <text x="31" y="152" fill="#ffffff" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">Kotlin</tspan><tspan fill="#8b949e"> 70.1%</tspan></text>
   <circle cx="177" cy="159" r="5" fill="#e34c26" />
-  <text x="187" y="152" fill="#ffffff" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">CSS</tspan><tspan fill="#8b949e"> 9.1%</tspan></text>
+  <text x="187" y="152" fill="#ffffff" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">CSS</tspan><tspan fill="#8b949e"> 9.0%</tspan></text>
   <circle cx="333" cy="159" r="5" fill="#563d7c" />
   <text x="343" y="152" fill="#ffffff" font-size="14" font-family="'Segoe UI', Segoe, sans-serif" dominant-baseline="hanging"><tspan font-weight="600">C#</tspan><tspan fill="#8b949e"> 8.1%</tspan></text>
   <circle cx="21" cy="181" r="5" fill="#b07219" />
